@@ -65,10 +65,6 @@ SaveRecords Health Clinic operates an internal patient management system where d
 <br />
 <br />
 
-
-<br />
-<br />
-
 <h2>Lessons Learned:</h2>
 <ul>
  <li>Understanding how compliance frameworks are structured</li>
