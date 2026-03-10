@@ -32,7 +32,7 @@ This repository demonstrates how I built a mini compliance program by selecting 
 
  I needed a clear story for the compliance environment so first, I identify from personal experience of the type of jobs I worked. Healthcare came to mind. Healthcare is naturally high compliance relevance (HIPAA, ISO 27001, etc). With healthcare comes electronic records and data types like PII and PHI. 
   <ul>
-  <li>Compliance Environment Story: A healthcare clinic called SaveRecords that stores electronic patient records and protects confidential data (PII/PHI)</li>
+  <li><strong>Compliance Environment Story:</strong> A healthcare clinic called SaveRecords that stores electronic patient records and protects confidential data (PII/PHI)</li>
  </ul>
      
 <p align="center">
@@ -40,10 +40,10 @@ This repository demonstrates how I built a mini compliance program by selecting 
 
  Once I created the compliance enviroment story, I ask ChatGPT to list the assets, systems, users, and data types that fits to this compliance environment story. 
  <ul>
-  <li>Assets: EMR application (custom web app), Cloud database (AWS), Staff laptops/workstations, Internet routers/firewalls, Patient data repository (contains PII and PHI)</li>
-  <li>Systems: AWS (hosting and data storage), EMR platform (used by staff), Internal email and file-sharing tools</li>
-  <li>Users: Doctors, Admin Staff, Nurses, IT Support</li>
-  <li>Data Types: Personally Identifiable Information (PII), Protected Health Information (PHI)</li>
+  <li><strong>Assets:</strong> EMR application (custom web app), Cloud database (AWS), Staff laptops/workstations, Internet routers/firewalls, Patient data repository (contains PII and PHI)</li>
+  <li><strong>Systems:</strong> AWS (hosting and data storage), EMR platform (used by staff), Internal email and file-sharing tools</li>
+  <li><strong>Users:</strong> Doctors, Admin Staff, Nurses, IT Support</li>
+  <li><strong>Data Types:</strong> Personally Identifiable Information (PII), Protected Health Information (PHI)</li>
  </ul>
 
 This gives me a nice scoping statement I can plug into my ISO 27001 documents later.  It defines what's in scope (systems, assets, data) and who interacts with them.
@@ -53,13 +53,28 @@ This gives me a nice scoping statement I can plug into my ISO 27001 documents la
 
  I basically reviewed Phase Two and wrote a quick scope summary around this fictional company (SaveRecords Health Clinic)
 
-Scope Summary:
+<strong>Scope Summary:</strong>
 SaveRecords Health Clinic operates an internal patient management system where doctors, nurses, and admin staff access patient records stored in a secure cloud environment. The scope of this compliance program includs the clinics information systems, electronic medical record (EMR) platforms, staff laptops and patient data store in the cloud.
  
 <p align="center">
  <strong>Phase Four: Choose A Framework </strong> <br/>
 
  I chose (ISO 27001 Annex A) for my healthcare clinic scenario because it's globally recognized, risk based, and structured for exactly what SaveRecords needs which is protecting PII and PHI in a systematic way. 
+
+<p align="center">
+ <strong>Phase Five: Pick 20 Controls from Iso 27001 Framework </strong> <br/>
+
+ https://www.isms.online/iso-27001/annex-a-2022/
+ 
+ISO 27001 (Annex A) has 93 controls group under four themes:
+<ul>
+ <li>Organization (A.5 - A.8 - 37 Controls): Policies, procedures, and governance.</li>
+ <li>People (A.6 - 8 Controls): Background checks, training, and awareness.</li>
+ <li>Physical (A.7 - 14 Controls): Secure areas, equipment, and surveilance.</li>
+ <li>Technological (A.8 - 34 Controls): Network security, encryption, and access management.</li>
+</ul>
+  
+After reviewing ISO 27001 (Annex A), for a small healthcare clinic like 'SaveRecords', I picked 20 controls that make the most sense for my environment.
 
 
 <br />
