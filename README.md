@@ -25,19 +25,38 @@ This repository demonstrates how I built a mini compliance program by selecting 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Step One: <br/>
- Download and install Oracle Virtual box which is what we’re going to use to run our virtual machines on . Go to “https://www.virtualbox.org/” and download “macOs/Intel hosts” for this mac laptop then download “VirtualBox Extension Pack - VirtualBox 7.2.2 Extension Pack” as well
-<img src="https://i.imgur.com/Rum9sXX.png" height="80%" width="80%" alt="Virtualbox"/>
+ Phase One: Define The Fictional Organization <br/>
+
+ I needed a clear story for the compliance environment so I thought of this like world-building for risk professionals.
+     
+ - <b>Compliance Environment Story: A healthcare clinic called SaveRecords that stores electronic patient records containing PII and PHI.</b>
+
+<br />
+
+<p align="center">
+ Phase Two: Define Assets, Systems, Users & Data Types with ChatGPT Assistance <br/>
+
+ Once I created the compliance enviroment story, I ask ChatGPT to list the assets, systems, users, and data types that fits to this compliance environment story. 
+  - <b>Assets: EMR application (custom web app), Cloud database (AWS), Staff laptops/workstations, Internet routers/firewalls, Patient data repository (contains PII and PHI)</b>
+ 
+  - <b>Systems: EMR application (custom web app), Cloud database (AWS), Staff laptops/workstations, Internet routers/firewalls, Patient data repository (contains PII and PHI)</b>
+  
+  - <b>Users: EMR application (custom web app), Cloud database (AWS), Staff laptops/workstations, Internet routers/firewalls, Patient data repository (contains PII and PHI)</b>
+  
+  - <b>Data Types: Personally Identifiable Information (PII), Protected Health Information (PHI) </b>
 
 <br />
 <br />
-Step Two:  <br/>
+
+
+Phase Two:  <br/>
  We’re going to download “Windows 10 ISO” https://www.microsoft.com/en-us/software-download/windows10ISO 
  <img src="https://i.imgur.com/riYjtQP.png" height="80%" width="80%" alt="Virtualbox"/>
  <br/> 
- Download “Server 2019 ISO” https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019  
- <img src="https://i.imgur.com/0Comydv.png" height="80%" width="80%" alt="Virtualbox"/>
- <br/> 
+
+
+
+
 
 <br />
 <br />
@@ -68,6 +87,15 @@ Step Eight:  <br/>
 After creating the users, we’re going to create another virtual machine and install “Windows 10” on it and that virtual machine will be connected to the private virtual box network. We’re going to name that machine “Client1” and join it to the domain and then we’re going to log into it with one of our domain accounts.
 <br />
 <br />
+
+<h2>Lessons Learned:</h2>
+
+- <b>Understanding how compliance frameworks are structured</b>
+- <b>Learning how to map controls to business processes</b>
+- <b>Identifying gaps and building remediation plans</b>
+- <b>Documenting compliance maturity in a clear, structured format</b>
+
+
 <!--
  ```diff
 - text in red
