@@ -59,7 +59,7 @@ SaveRecords Health Clinic operates an internal patient management system where d
 <p align="center">
  <strong>Phase Four: Choose A Framework </strong> <br/>
 
- I chose (ISO 27001 Annex A) for my healthcare clinic scenario.  It's globally recognized, risk based, and structured for exactly what SaveRecords needs which is protecting PII and PHI in a systematic way. 
+ I chose (ISO 27001 Annex A) for my healthcare clinic scenario because it's globally recognized, risk based, and structured for exactly what SaveRecords needs which is protecting PII and PHI in a systematic way. 
 
 
 <br />
