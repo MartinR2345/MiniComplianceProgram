@@ -78,11 +78,14 @@ ISO 27001 (Annex A) has 93 controls group under four themes:
  <li>Technological (A.8 - 34 Controls): Network security, encryption, and access management.</li>
 </ul>
   
-For a small healthcare clinic like 'SaveRecords', I picked 20 controls that make the most sense for my compliance environment.
+For a small healthcare clinic like 'SaveRecords', I picked 20 controls that make the most sense for my compliance environment. 
 
+ <img src="https://i.imgur.com/JubBivS.png" height="80%" width="80%" alt="twentyControls"/>
+<br />
 
-<br />
-<br />
+<p align="center">
+ <strong>Phase Five:  </strong> <br/>
+
 
 <h2>Lessons Learned:</h2>
 <ul>
