@@ -46,7 +46,21 @@ This repository demonstrates how I built a mini compliance program by selecting 
   <li>Data Types: Personally Identifiable Information (PII), Protected Health Information (PHI)</li>
  </ul>
 
+This gives me a nice scoping statement I can plug into my ISO 27001 documents later.  It defines what's in scope (systems, assets, data) and who interacts with them.
+
+<p align="center">
+ <strong>Phase Three: Write out the Scope Summary </strong> <br/>
+
+ I basically reviewed Phase Two and wrote a quick scope summary around this fictional company (SaveRecords Health Clinic)
+
+Scope Summary:
+SaveRecords Health Clinic operates an internal patient management system where doctors, nurses, and admin staff access patient records stored in a secure cloud environment. The scope of this compliance program includs the clinics information systems, electronic medical record (EMR) platforms, staff laptops and patient data store in the cloud.
  
+<p align="center">
+ <strong>Phase Four: Choose A Framework </strong> <br/>
+
+ I chose (ISO 27001 Annex A) for my healthcare clinic scenario.  It's globally recognized, risk based, and structured for exactly what SaveRecords needs which is protecting PII and PHI in a systematic way. 
+
 
 <br />
 <br />
