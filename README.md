@@ -59,12 +59,16 @@ SaveRecords Health Clinic operates an internal patient management system where d
 <p align="center">
  <strong>Phase Four: Choose A Framework </strong> <br/>
 
- I chose (ISO 27001 Annex A) for my healthcare clinic scenario because it's globally recognized, risk based, and structured for exactly what SaveRecords needs which is protecting PII and PHI in a systematic way. 
+ ISO 27001 Annex A Framework Information: <br>
+https://www.isms.online/iso-27001/annex-a-2022/
+ 
+ I chose (ISO 27001 Annex A framework) for my healthcare clinic scenario because it's globally recognized, risk based, and structured for exactly what SaveRecords needs which is protecting PII and PHI in a systematic way. 
 
 <p align="center">
- <strong>Phase Five: Pick 20 Controls from Iso 27001 Framework </strong> <br/>
+ <strong>Phase Five: Pick 20 Controls from ISO 27001 Framework </strong> <br/>
 
- https://www.isms.online/iso-27001/annex-a-2022/
+ ISO 27001 Annex A Framework Information: <br>
+https://www.isms.online/iso-27001/annex-a-2022/
  
 ISO 27001 (Annex A) has 93 controls group under four themes:
 <ul>
@@ -74,7 +78,7 @@ ISO 27001 (Annex A) has 93 controls group under four themes:
  <li>Technological (A.8 - 34 Controls): Network security, encryption, and access management.</li>
 </ul>
   
-After reviewing ISO 27001 (Annex A), for a small healthcare clinic like 'SaveRecords', I picked 20 controls that make the most sense for my environment.
+For a small healthcare clinic like 'SaveRecords', I picked 20 controls that make the most sense for my compliance environment.
 
 
 <br />
