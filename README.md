@@ -92,9 +92,10 @@ I create a google sheet and named it "Mini Contract Matrix" then added columns t
 <strong>Columns to include:</strong> <br>
 | Control ID | Requirement | Current Status | Owner | Needed Actions | <br>
 
+Note to self: <br>
 <strong>Requirements</strong> - What does this control provides? <br>
 <strong>Current Status</strong> = a quick self-assessment of your maturity (Implemented / Partially / Missing). <br>
-<strong>Owner</strong> = who is accountable for that control (like IT, HR, Compliance, etc.). <br>
+<strong>Owner</strong> = who is accountable for that control (like IT, HR, Compliance,  etc.). <br>
 <strong>Needed Actions / Remediation Notes</strong> = realistic next steps that would show progress toward full compliance. <br>
 
 <p align="center">
@@ -102,6 +103,8 @@ I create a google sheet and named it "Mini Contract Matrix" then added columns t
 
  <p align="center">
  <strong>Phase Six: Add the Requirements, Owners On The Sheet </strong> <br/>
+
+ I use ChatGPT to assist with adding the requirements, and owners to this google sheet. I rewrote every line and use ChatGPT as a mentor, not a quick fix.
 
 <p align="center">
  <img src="https://i.imgur.com/SjMBfwo.png" height="80%" width="80%" alt="twentyControls"/>
