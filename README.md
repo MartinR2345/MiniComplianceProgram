@@ -78,14 +78,39 @@ ISO 27001 (Annex A) has 93 controls group under four themes:
  <li>Technological (A.8 - 34 Controls): Network security, encryption, and access management.</li>
 </ul>
   
-For a small healthcare clinic like 'SaveRecords', I picked 20 controls that make the most sense for my compliance environment. 
+For a small healthcare clinic like 'SaveRecords', I picked 20 controls that make the most sense for my compliance environment and put it on a google sheets. 
 
+<p align="center">
  <img src="https://i.imgur.com/JubBivS.png" height="80%" width="80%" alt="twentyControls"/>
 <br />
 
 <p align="center">
- <strong>Phase Five:  </strong> <br/>
+ <strong>Phase Five:  Build a Mini Control Matrix in Excel or Google Sheets. </strong> <br/>
 
+I create a google sheet and named it "Mini Contract Matrix" then added columns to this sheet and 20 controls as well.
+
+<strong>Columns to include:</strong> <br>
+| Control ID | Requirement | Current Status | Owner | Needed Actions | <br>
+
+<strong>Requirements</strong> - What does this control provides? <br>
+<strong>Current Status</strong> = a quick self-assessment of your maturity (Implemented / Partially / Missing). <br>
+<strong>Owner</strong> = who is accountable for that control (like IT, HR, Compliance, etc.). <br>
+<strong>Needed Actions / Remediation Notes</strong> = realistic next steps that would show progress toward full compliance. <br>
+
+<p align="center">
+ <img src="https://i.imgur.com/cfgsLp1.png" height="80%" width="80%" alt="twentyControls"/>
+
+ <p align="center">
+ <strong>Phase Six: Add the Requirements, Owners On The Sheet </strong> <br/>
+
+<p align="center">
+ <img src="https://i.imgur.com/SjMBfwo.png" height="80%" width="80%" alt="twentyControls"/>
+
+<p align="center">
+ <img src="https://i.imgur.com/rgbixPl.png" height="80%" width="80%" alt="twentyControls"/>
+
+<p align="center">
+ <img src="https://i.imgur.com/mCCk63T.png" height="80%" width="80%" alt="twentyControls"/>
 
 <h2>Lessons Learned:</h2>
 <ul>
