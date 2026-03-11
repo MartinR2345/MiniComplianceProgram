@@ -102,7 +102,7 @@ Note to self: <br>
  <img src="https://i.imgur.com/cfgsLp1.png" height="80%" width="80%" alt="twentyControls"/>
 
  <p align="center">
- <strong>Phase Six: Add the Requirements, Owners On The Sheet </strong> <br/>
+ <strong>Phase Six: Add the Requirements, Owners On The Sheet With ChatGPT Assistance </strong> <br/>
 
  I use ChatGPT to assist with adding the requirements, and owners to this google sheet. I rewrote every line and use ChatGPT as a mentor, not a quick fix.
 
