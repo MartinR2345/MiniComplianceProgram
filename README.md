@@ -104,7 +104,7 @@ Note to self: <br>
  <p align="center">
  <strong>Phase Six: Add the Requirements, Owners On The Sheet With ChatGPT Assistance </strong> <br/>
 
- I use ChatGPT to assist with adding the requirements, and owners to this google sheet. I rewrote every line and use ChatGPT as a mentor, not a quick fix.
+ I use ChatGPT to assist with adding the requirements, and owners to this google sheet. I rewrote every line and use ChatGPT as a mentor, not a quick fix. What I mean when I say this is, ChatGPT gives me the answer for one control then I do my own research and write out the next 19 controls then I asks ChatGPT to review each control I wrote and provide feedback on how it can be better.
 
 <p align="center">
  <img src="https://i.imgur.com/SjMBfwo.png" height="80%" width="80%" alt="twentyControls"/>
