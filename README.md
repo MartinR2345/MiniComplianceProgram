@@ -155,9 +155,12 @@ Note to Self:
 I also used ChatGPT to review all of my 20 control Current Status for feedback...
 
   <p align="center">
- <strong>Phase Seven: Needed Action/ Remediation  </strong> <br/>
+ <strong>Phase Seven: Needed Actions: Write a short, specific, and actionable</strong> <br/>
 
-   The “Needed Actions” column is where my matrix really comes alive. This is where I shift from identifying the state of compliance to proposing realistic next steps for Save Records Health clinic.
+   The “Needed Actions” column is where my matrix really comes alive. This is where I shift from identifying the state of compliance to proposing realistic next steps for Save Records Health clinic. <br>
+  
+   The “Needed Actions” column answers one simple question: <br>
+   “What’s the next step required to bring this control to full compliance?”
 
    
 <h2>Lessons Learned:</h2>
