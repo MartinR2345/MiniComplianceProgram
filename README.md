@@ -157,7 +157,7 @@ I also used ChatGPT to review all of my 20 control Current Status for feedback..
   <p align="center">
  <strong>Phase Seven: Needed Actions: Write a short, specific, and actionable</strong> <br/>
 
-   The “Needed Actions” column is where my matrix really comes alive. This is where I shift from identifying the state of compliance to proposing realistic next steps for Save Records Health clinic. <br>
+   The “Needed Actions” column is where my matrix really comes alive. This is where I shift from identifying the state of compliance to proposing realistic next steps for SaveRecords Health Clinic. <br>
   
    The “Needed Actions” column answers one simple question: <br>
    “What’s the next step required to bring this control to full compliance?”
@@ -170,6 +170,21 @@ I also used ChatGPT to review all of my 20 control Current Status for feedback..
 
   <p align="center">
  <img src="https://i.imgur.com/BYXD9mZ.png" height="80%" width="80%" alt="twentyControls"/> <br>
+
+  <p align="center">
+ <strong>Phase Eight: Compliance Program Overview</strong> <br/>
+
+   The “Compliance Program Overview” is the final piece that ties this mini compliance program together. The goal was to tell the story of SaveRecords Health Clinic's security posture, what framework it follows, where it stands now, and what it plans to improve. <br>
+
+ <p align="center">
+ <img src="https://i.imgur.com/I4UYhwM.png" height="80%" width="80%" alt="twentyControls"/> <br>
+
+  <p align="center">
+ <img src="https://i.imgur.com/sXgI7na.png" height="80%" width="80%" alt="twentyControls"/> <br>
+
+  <p align="center">
+ <img src="https://i.imgur.com/eJ5OZvk.png" height="80%" width="80%" alt="twentyControls"/> <br>
+
    
 <h2>Lessons Learned:</h2>
 <ul>
