@@ -95,7 +95,7 @@ I create a google sheet and named it "Mini Contract Matrix" then added columns t
 Note to self: <br>
 <strong>Requirements</strong> - What does this control provides? <br>
 <strong>Current Status</strong> = a quick self-assessment of your maturity (Implemented / Partially / Missing). <br>
-<strong>Owner</strong> = who is accountable for that control (like IT, HR, Compliance,  etc.). <br>
+<strong>Owner</strong> = who is the person or role accountable for that control's success (not necessarily the one doing the work) (like Clinic Director, IT Manager, HR Manager, Compliance Officer,  etc.). <br>
 <strong>Needed Actions / Remediation Notes</strong> = realistic next steps that would show progress toward full compliance. <br>
 
 <p align="center">
@@ -113,8 +113,53 @@ Note to self: <br>
  <img src="https://i.imgur.com/rgbixPl.png" height="80%" width="80%" alt="twentyControls"/>
 
 <p align="center">
- <img src="https://i.imgur.com/mCCk63T.png" height="80%" width="80%" alt="twentyControls"/>
+ <img src="https://i.imgur.com/mCCk63T.png" height="80%" width="80%" alt="twentyControls"/> <br>
 
+  <p align="center">
+ <strong>Phase Six: Assign a Maturity Rating To 20 Controls Current Status</strong> <br/>
+
+I created a google sheet and named it "3-Level Maturity Scale 2026". 
+
+<p align="center">
+ <img src="https://i.imgur.com/Dbt4OFA.png" height="80%" width="80%" alt="twentyControls"/> <br>
+
+ When reviewing each control, I ask myself these quick checks: <br>
+ Do we have a written policy or procedure for this? <br>
+ If Yes, then choose either Partially or Fully Implemented<br>
+ If No, then choose Missing
+
+ Is the process consistently followed by all staff? <br>
+ If Yes, then choose Implemented <br>
+ If No, then choose Partially <br>
+
+ Is there documentation or evidence (logs, reports, training records)? <br>
+ If Yes, then choose Implemented <br>
+ If No, then choose either Partially or Missing <br>
+
+ Has management reviewed or approved it recently? <br>
+ If Yes, then choose Implemented <br>
+ If No, then choose either Partially or Missing <br>
+
+ Basically, I thought of this as a mini risk assessment. Instead of picking randomly, I remind myself that this should be logical so for each control, I assigned either implemented (fully operational), partially implemented (informal or incomplete), missing (no process yet) for the Current Status.
+
+ <p align="center">
+ <img src="https://i.imgur.com/umCvw0w.png" height="80%" width="80%" alt="twentyControls"/> <br>
+
+  <p align="center">
+ <img src="https://i.imgur.com/2yFDYR8.png" height="80%" width="80%" alt="twentyControls"/> <br>
+
+  <p align="center">
+ <img src="https://i.imgur.com/vWutFSE.png" height="80%" width="80%" alt="twentyControls"/> <br>
+
+Note to Self:
+I also used ChatGPT to review all of my 20 control Current Status for feedback...
+
+  <p align="center">
+ <strong>Phase Seven: Needed Action/ Remediation  </strong> <br/>
+
+   The “Needed Actions” column is where my matrix really comes alive. This is where I shift from identifying the state of compliance to proposing realistic next steps for Save Records Health clinic.
+
+   
 <h2>Lessons Learned:</h2>
 <ul>
  <li>Understanding how compliance frameworks are structured</li>
