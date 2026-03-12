@@ -162,6 +162,14 @@ I also used ChatGPT to review all of my 20 control Current Status for feedback..
    The “Needed Actions” column answers one simple question: <br>
    “What’s the next step required to bring this control to full compliance?”
 
+ <p align="center">
+ <img src="https://i.imgur.com/5avzD8p.png" height="80%" width="80%" alt="twentyControls"/> <br>
+
+  <p align="center">
+ <img src="https://i.imgur.com/dgb9rDl.png" height="80%" width="80%" alt="twentyControls"/> <br>
+
+  <p align="center">
+ <img src="https://i.imgur.com/BYXD9mZ.png" height="80%" width="80%" alt="twentyControls"/> <br>
    
 <h2>Lessons Learned:</h2>
 <ul>
