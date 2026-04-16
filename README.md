@@ -46,7 +46,7 @@ This repository demonstrates how I built a mini compliance program by selecting 
   <li><strong>Data Types:</strong> Personally Identifiable Information (PII), Protected Health Information (PHI)</li>
  </ul>
 
-This gives me a nice scoping statement I can plug into my ISO 27001 documents later.  It defines what's in scope (systems, assets, data) and who interacts with them.
+This defines what’s in scope for compliance and ensures controls are applied correctly. This gives me a nice scoping statement I can plug into my ISO 27001 documents later.  It defines what's in scope (systems, assets, data) and who interacts with them.
 
 <p align="center">
  <strong>Phase Three: Write out the Scope Summary </strong> <br/>
