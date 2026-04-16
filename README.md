@@ -187,12 +187,8 @@ I also used ChatGPT to review all of my 20 control Current Status for feedback..
 
    
 <h2>Lessons Learned:</h2>
-<ul>
- <li>Understanding how compliance frameworks are structured</li>
- <li>Learning how to map controls to business processes</li>
- <li>Identifying gaps and building remediation plans</li>
- <li>Documenting compliance maturity in a clear, structured format</li>
-</ul>
+This project helped me understand how gaps in controls directly translate into operational and compliance risk, especially in environments handling sensitive data like PHI.
+
 
 <!--
  ```diff
