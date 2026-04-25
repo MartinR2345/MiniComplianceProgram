@@ -47,39 +47,35 @@ This repository demonstrates how I built a mini compliance program by selecting 
     <li><strong>Sensitive Data Types (Like PII and PHI):</strong><br/><img src="https://i.imgur.com/6yKDBji.png" height="80%" width="80%" alt="SaveRecords"/><br/><img src="https://i.imgur.com/APxuRxJ.png" height="80%" width="80%" alt="SaveRecords"/></li>
  </ul>
 
-This defines what’s in scope for compliance and ensures controls are applied correctly. This gives me a nice scoping statement I can plug into my ISO 27001 documents later.  It defines what's in scope (systems, assets, data) and who interacts with them.
-
 <p align="center">
  <strong>Phase Three: Write out the Scope Summary </strong> <br/>
 
- I basically reviewed Phase Two and wrote a quick scope summary around this fictional company (SaveRecords Health Clinic)
+ I basically reviewed Phase Two and wrote a quick scope summary around this fictional company (SaveRecords Health Clinic) This defines what's in scope (systems, assets, data) and who interacts with them.
 
 <strong>Scope Summary:</strong>
 SaveRecords Health Clinic operates an internal patient management system where doctors, nurses, and admin staff access patient records stored in a secure cloud environment. The scope of this compliance program includs the clinics information systems, electronic medical record (EMR) platforms, staff laptops and patient data store in the cloud.
  
 <p align="center">
- <strong>Phase Four: Choose A Framework </strong> <br/>
+ <strong>Phase Four: Choose A Framework and Select 20 Controls </strong> <br/>
 
- ISO 27001 Annex A Framework Information: <br>
+ <strong>ISO 27001 Annex A Framework Information:</strong><br>
 https://www.isms.online/iso-27001/annex-a-2022/
  
- I chose (ISO 27001 Annex A framework) for my healthcare clinic scenario because it's globally recognized, risk based, and structured for exactly what SaveRecords needs which is protecting PII and PHI in a systematic way. 
-
-<p align="center">
- <strong>Phase Five: Pick 20 Controls from ISO 27001 Framework </strong> <br/>
-
- ISO 27001 Annex A Framework Information: <br>
-https://www.isms.online/iso-27001/annex-a-2022/
+ I chose <strong>(ISO 27001 Annex A framework)</strong> for my healthcare clinic scenario because it's globally recognized, risk based, and structured for exactly what SaveRecords needs which is protecting PII and PHI in a systematic way. 
  
-ISO 27001 (Annex A) has 93 controls group under four themes:
+ <strong>ISO 27001 (Annex A)</strong> has 93 controls group under four themes:
 <ul>
  <li>Organization (A.5 - A.8 - 37 Controls): Policies, procedures, and governance.</li>
  <li>People (A.6 - 8 Controls): Background checks, training, and awareness.</li>
  <li>Physical (A.7 - 14 Controls): Secure areas, equipment, and surveilance.</li>
  <li>Technological (A.8 - 34 Controls): Network security, encryption, and access management.</li>
 </ul>
-  
-For a small healthcare clinic like 'SaveRecords', I picked 20 controls that make the most sense for my compliance environment and put it on a google sheets. 
+
+I selected 20 relevant controls out of 93 controls across organizational, physical, and technical domains and added it on a spreadsheet. On this spreadsheet I have three columns:
+ 
+Column 1 is <strong>Control ID</strong> <br/>
+Column 2 is the <strong>Control Name</strong> <br/>
+Column 3 is <strong>Why It Matters to Save Records Healthclinic</strong> <br/>    
 
 <p align="center">
  <img src="https://i.imgur.com/JubBivS.png" height="80%" width="80%" alt="twentyControls"/>
