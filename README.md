@@ -30,9 +30,10 @@ This repository demonstrates how I built a mini compliance program by selecting 
 <p align="center">
   <strong>Phase One: Define The Fictional Organization</strong> <br/>
 
- I needed a clear story for the compliance environment so first, I identify from personal experience of the type of jobs I worked. Healthcare came to mind. Healthcare is naturally high compliance relevance (HIPAA, ISO 27001, etc). With healthcare comes electronic records and data types like PII and PHI. 
+ I needed a clear story for the compliance environment so first, I identify from personal experience of the type of jobs I worked. Healthcare came to mind. Healthcare is naturally high compliance relevance (HIPAA, ISO 27001, etc), electronic records and data types like PII and PHI. 
+
+ I created a healthcare clinic called SaveRecords that stores and manages electronic patient records in a cloud environment.
   <ul>
-  <li>I created a healthcare clinic called SaveRecords that stores and manages electronic patient records in a cloud environment.
   <img src="https://i.imgur.com/OgEUlUn.png" height="80%" width="80%" alt="SaveRecords"/></li>
  </ul>
      
@@ -82,18 +83,17 @@ Column 3 is <strong>Why It Matters to Save Records Healthclinic</strong> <br/>
 <br />
 
 <p align="center">
- <strong>Phase Five:  Build a Mini Control Matrix in Excel or Google Sheets. </strong> <br/>
+ <strong>Phase Five:  Build a Mini Control Matrix </strong> <br/>
 
-I create a google sheet and named it "Mini Contract Matrix" then added columns to this sheet and 20 controls as well.
+To put this into practice, I built a mini control matrix.  This mini control matrix is essential for mitigating risks, ensuring regulatory compliance, optimizing processes, and encouraging accountability within an organization.
 
-<strong>Columns to include:</strong> <br>
-| Control ID | Requirement | Current Status | Owner | Needed Actions | <br>
+On the spreadsheet display, I have:
 
-Note to self: <br>
-<strong>Requirements</strong> - What does this control provides? <br>
-<strong>Current Status</strong> = a quick self-assessment of your maturity (Implemented / Partially / Missing). <br>
-<strong>Owner</strong> = who is the person or role accountable for that control's success (not necessarily the one doing the work) (like Clinic Director, IT Manager, HR Manager, Compliance Officer,  etc.). <br>
-<strong>Needed Actions / Remediation Notes</strong> = realistic next steps that would show progress toward full compliance. <br>
+Column 1 is <strong>Control ID</strong> <br/>
+Column 2 is the <strong>Requirements (What does this control provides?)</strong> <br/>
+Column 3 is <strong>Currrent Status (A quick self-assessment of your maturity (Implemented / Partially / Missing)</strong><br/> 
+Column 4 is <strong>Owner (The person responsible for the control).</strong> <br/>
+Column 5 is <strong>Needed Actions (The actions needed to reach full compliance.).</strong> <br/>  
 
 <p align="center">
  <img src="https://i.imgur.com/cfgsLp1.png" height="80%" width="80%" alt="twentyControls"/>
