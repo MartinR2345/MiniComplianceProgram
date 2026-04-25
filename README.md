@@ -42,11 +42,9 @@ This repository demonstrates how I built a mini compliance program by selecting 
  From there, I define the full compliance scope including assets like: 
  <ul>
   <li><strong>EMR Systems (EMR Application & Platform)</strong><img src="https://i.imgur.com/bGSYZMf.png" height="80%" width="80%" alt="SaveRecords"/></li>
-  <li><strong>EMR Systems (EMR Application & Platform)</strong><img src="https://i.imgur.com/bGSYZMf.png" height="80%" width="80%" alt="SaveRecords"/></li>
-  
-  <li><strong>Systems:</strong> AWS (hosting and data storage), EMR platform (used by staff), Internal email and file-sharing tools</li>
-  <li><strong>Users:</strong> Doctors, Admin Staff, Nurses, IT Support</li>
-  <li><strong>Data Types:</strong> Personally Identifiable Information (PII), Protected Health Information (PHI)</li>
+  <li><strong>Cloud Database:</strong><br/><img src="https://i.imgur.com/NTzHrhE.png" height="80%" width="80%" alt="SaveRecords"/></li>
+   <li><strong>Users (Doctors, Admin Staff, Nurses, IT Support):</strong><br/><img src="https://i.imgur.com/4mf0V0q.png" height="80%" width="80%" alt="SaveRecords"/></li>
+    <li><strong>Sensitive Data Types (Like PII and PHI):</strong><br/><img src="https://i.imgur.com/6yKDBji.png" height="80%" width="80%" alt="SaveRecords"/><br/><img src="https://i.imgur.com/APxuRxJ.png" height="80%" width="80%" alt="SaveRecords"/></li>
  </ul>
 
 This defines what’s in scope for compliance and ensures controls are applied correctly. This gives me a nice scoping statement I can plug into my ISO 27001 documents later.  It defines what's in scope (systems, assets, data) and who interacts with them.
