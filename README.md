@@ -32,15 +32,18 @@ This repository demonstrates how I built a mini compliance program by selecting 
 
  I needed a clear story for the compliance environment so first, I identify from personal experience of the type of jobs I worked. Healthcare came to mind. Healthcare is naturally high compliance relevance (HIPAA, ISO 27001, etc). With healthcare comes electronic records and data types like PII and PHI. 
   <ul>
-  <li><strong>Compliance Environment Story:</strong> A healthcare clinic called SaveRecords that stores electronic patient records and protects confidential data (PII/PHI)</li>
+  <li>I created a healthcare clinic called SaveRecords that stores and manages electronic patient records in a cloud environment.
+  <img src="https://i.imgur.com/OgEUlUn.png" height="80%" width="80%" alt="SaveRecords"/></li>
  </ul>
      
 <p align="center">
  <strong>Phase Two: Define Assets, Systems, Users & Data Types with ChatGPT Assistance</strong> <br/>
 
- Once I created the compliance enviroment story, I ask ChatGPT to list the assets, systems, users, and data types that fits to this compliance environment story. 
+ From there, I define the full compliance scope including assets like: 
  <ul>
-  <li><strong>Assets:</strong> EMR application (custom web app), Cloud database (AWS), Staff laptops/workstations, Internet routers/firewalls, Patient data repository (contains PII and PHI)</li>
+  <li><strong>EMR Systems (EMR Application & Platform)</strong><img src="https://i.imgur.com/bGSYZMf.png" height="80%" width="80%" alt="SaveRecords"/></li>
+  <li><strong>EMR Systems (EMR Application & Platform)</strong><img src="https://i.imgur.com/bGSYZMf.png" height="80%" width="80%" alt="SaveRecords"/></li>
+  
   <li><strong>Systems:</strong> AWS (hosting and data storage), EMR platform (used by staff), Internal email and file-sharing tools</li>
   <li><strong>Users:</strong> Doctors, Admin Staff, Nurses, IT Support</li>
   <li><strong>Data Types:</strong> Personally Identifiable Information (PII), Protected Health Information (PHI)</li>
