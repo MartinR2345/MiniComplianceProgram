@@ -115,12 +115,12 @@ Column 5 is <strong>Needed Actions (The actions needed to reach full compliance.
   <p align="center">
  <strong>Phase Six: Assign a Maturity Rating To 20 Controls Current Status</strong> <br/>
 
-I created a google sheet and named it "3-Level Maturity Scale 2026". 
+Below is a "3-Level Maturity Scale 2026" spreadsheet I created:. 
 
 <p align="center">
  <img src="https://i.imgur.com/Dbt4OFA.png" height="80%" width="80%" alt="twentyControls"/> <br>
 
- When reviewing each control, I ask myself these quick checks: <br>
+ When reviewing each control, I ask myself these quick questions: <br>
  Do we have a written policy or procedure for this? <br>
  If Yes, then choose either Partially or Fully Implemented<br>
  If No, then choose Missing
