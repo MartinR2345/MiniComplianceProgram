@@ -101,7 +101,7 @@ Column 5 is <strong>Needed Actions (The actions needed to reach full compliance.
  <p align="center">
  <strong>Phase Six: Add the Requirements, Owners On The Sheet With ChatGPT Assistance </strong> <br/>
 
- I use ChatGPT to assist with adding the requirements, and owners to this google sheet. I rewrote every line and use ChatGPT as a mentor, not a quick fix. How I use ChatGPT is, I ask it to give me the answer for one control then I do my own research and write out the next 19 controls then I asks ChatGPT to review each control I wrote and provide feedback on how it can be better.
+ First, I wrote twenty requirements for each control then I use ChatGPT to review each control requirement and provide feedback on if it match the control or not. This way, I'm learning and ChatGPT is a mentor, not a quick fix.
 
 <p align="center">
  <img src="https://i.imgur.com/SjMBfwo.png" height="80%" width="80%" alt="twentyControls"/>
@@ -137,7 +137,7 @@ I created a google sheet and named it "3-Level Maturity Scale 2026".
  If Yes, then choose Implemented <br>
  If No, then choose either Partially or Missing <br>
 
- Basically, I thought of this as a mini risk assessment. Instead of picking randomly, I remind myself that this should be logical so for each control, I assigned either implemented (fully operational), partially implemented (informal or incomplete), missing (no process yet) for the Current Status.
+ Basically, instead of picking randomly, I remind myself that this should be logical so for each control, I assigned either implemented (fully operational), partially implemented (informal or incomplete), missing (no process yet) for the Current Status.
 
  <p align="center">
  <img src="https://i.imgur.com/umCvw0w.png" height="80%" width="80%" alt="twentyControls"/> <br>
