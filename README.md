@@ -55,9 +55,15 @@ This repository demonstrates how I built a mini compliance program by selecting 
 
 <strong>Scope Summary:</strong>
 SaveRecords Health Clinic operates an internal patient management system where doctors, nurses, and admin staff access patient records stored in a secure cloud environment. The scope of this compliance program includs the clinics information systems, electronic medical record (EMR) platforms, staff laptops and patient data store in the cloud.
+
+<p align="center">
+ <strong>Phase Four: Perform Risk Assessment (Create Risk Register)</strong> <br/>
+
+ I basically reviewed Phase Two and wrote a quick scope summary around this fictional company (SaveRecords Health Clinic) This defines what's in scope (systems, assets, data) and who interacts with them.
+
  
 <p align="center">
- <strong>Phase Four: Choose A Framework and Select 20 Controls </strong> <br/>
+ <strong>Phase Five: Choose A Framework and Select 20 Controls </strong> <br/>
 
  <strong>ISO 27001 Annex A Framework Information:</strong><br>
 https://www.isms.online/iso-27001/annex-a-2022/
@@ -83,7 +89,7 @@ Column 3 is <strong>Why It Matters to Save Records Healthclinic</strong> <br/>
 <br />
 
 <p align="center">
- <strong>Phase Five:  Build a Mini Control Matrix </strong> <br/>
+ <strong>Phase Six:  Build Control Matrix </strong> <br/>
 
 To put this into practice, I built a mini control matrix.  This mini control matrix is essential for mitigating risks, ensuring regulatory compliance, optimizing processes, and encouraging accountability within an organization.
 
@@ -99,7 +105,6 @@ Column 5 is <strong>Needed Actions (The actions needed to reach full compliance.
  <img src="https://i.imgur.com/cfgsLp1.png" height="80%" width="80%" alt="twentyControls"/>
 
  <p align="center">
- <strong>Phase Six: Add the Requirements, Owners On The Sheet With ChatGPT Assistance </strong> <br/>
 
  First, I wrote twenty requirements for each control then I use ChatGPT to review each control requirement and provide feedback on if it match the control or not. This way, I'm learning and ChatGPT is a mentor, not a quick fix.
 
@@ -113,12 +118,14 @@ Column 5 is <strong>Needed Actions (The actions needed to reach full compliance.
  <img src="https://i.imgur.com/mCCk63T.png" height="80%" width="80%" alt="twentyControls"/> <br>
 
   <p align="center">
- <strong>Phase Six: Assign a Maturity Rating To 20 Controls Current Status</strong> <br/>
+ <strong>Phase Seven: Assign a Maturity Rating</strong> <br/>
 
-Below is a "3-Level Maturity Scale 2026" spreadsheet I created:. 
+For the “Current Status” of each control, I used this "3-level Maturity Scale spreadsheet I created below:
 
 <p align="center">
  <img src="https://i.imgur.com/Dbt4OFA.png" height="80%" width="80%" alt="twentyControls"/> <br>
+
+ <strong>Implemented</strong> (Fully operational) | <strong>Partially implemented</strong> (Informal or incomplete) | <strong>Missing</strong>(No Process Yet)
 
  When reviewing each control, I ask myself these quick questions: <br>
  Do we have a written policy or procedure for this? <br>
@@ -152,12 +159,12 @@ Note to Self:
 I also used ChatGPT to review all of my 20 control Current Status for feedback...
 
   <p align="center">
- <strong>Phase Seven: Needed Actions: Write a short, specific, and actionable</strong> <br/>
+ <strong>Phase Eight: Definne Needed Actions</strong> <br/>
 
    The “Needed Actions” column is where my matrix really comes alive. This is where I shift from identifying the state of compliance to proposing realistic next steps for SaveRecords Health Clinic. <br>
   
    The “Needed Actions” column answers one simple question: <br>
-   “What’s the next step required to bring this control to full compliance?”
+   <strong>“What’s the next step required to bring this control to full compliance?”</strong>
 
  <p align="center">
  <img src="https://i.imgur.com/5avzD8p.png" height="80%" width="80%" alt="twentyControls"/> <br>
@@ -169,7 +176,7 @@ I also used ChatGPT to review all of my 20 control Current Status for feedback..
  <img src="https://i.imgur.com/BYXD9mZ.png" height="80%" width="80%" alt="twentyControls"/> <br>
 
   <p align="center">
- <strong>Phase Eight: Compliance Program Overview</strong> <br/>
+ <strong>Phase Nine: Compliance Program Overview</strong> <br/>
 
    The “Compliance Program Overview” is the final piece that ties this mini compliance program together. The goal was to tell the story of SaveRecords Health Clinic's security posture, what framework it follows, where it stands now, and what it plans to improve. <br>
 
