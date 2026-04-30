@@ -59,7 +59,16 @@ SaveRecords Health Clinic operates an internal patient management system where d
 <p align="center">
  <strong>Phase Four: Perform Risk Assessment (Create Risk Register)</strong> <br/>
 
- I basically reviewed Phase Two and wrote a quick scope summary around this fictional company (SaveRecords Health Clinic) This defines what's in scope (systems, assets, data) and who interacts with them.
+
+Risk Register Table
+ <ul>
+  <img src="" height="80%" width="80%" alt="Risk Register Table"/></li>
+ </ul>
+
+Risk Assessment Scoring Framework
+ <ul>
+  <img src="https://i.imgur.com/tP9S8qC.png" height="80%" width="80%" alt="Risk Assessment Scoring Framework"/></li>
+ </ul>
 
  
 <p align="center">
