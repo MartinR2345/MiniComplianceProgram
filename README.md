@@ -59,13 +59,14 @@ SaveRecords Health Clinic operates an internal patient management system where d
 <p align="center">
  <strong>Phase Four: Perform Risk Assessment (Create Risk Register)</strong> <br/>
 
+My risk register documents important assets, the threats affecting them, associated vulnerabilities, and how those risks are managed. I used likelihood and impact scoring to prioritize risks, then added existing controls, recommended controls, ownership, treatment decisions, and remediation status to simulate a real-world GRC workflow.
 
-Risk Register Table
+<strong>Risk Register Table</strong>
  <ul>
-  <img src="" height="80%" width="80%" alt="Risk Register Table"/></li>
+  <img src="https://i.imgur.com/KzQKg9Y.png" height="80%" width="80%" alt="Risk Register Table"/></li>
  </ul>
 
-Risk Assessment Scoring Framework
+<strong>Risk Assessment Scoring Framework</strong>
  <ul>
   <img src="https://i.imgur.com/tP9S8qC.png" height="80%" width="80%" alt="Risk Assessment Scoring Framework"/></li>
  </ul>
