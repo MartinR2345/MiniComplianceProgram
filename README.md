@@ -38,7 +38,7 @@ This repository demonstrates how I built a mini compliance program by selecting 
  </ul>
      
 <p align="center">
- <strong>Phase Two: Define Assets, Systems, Users & Data Types with ChatGPT Assistance</strong> <br/>
+ <strong>Phase Two: Define Assets, Systems, Users & Data Types</strong> <br/>
 
  From there, I define the full compliance scope including assets like: 
  <ul>
