@@ -133,7 +133,7 @@ Patient information is highly confidential and protected by privacy laws. Unauth
  <li><strong>ISO 27001 A.8.3 — Information Access Restriction:</strong> This matters because not every employee should have access to all patient records. Restricting access reduces the chance of misuse or accidental disclosure.</li>
 </ul>
 
-<strong>Servers (Ransomware)</strrong><br/>
+<strong>Servers (Ransomware)</strong><br/>
 Ransomware can encrypt healthcare systems, making patient records and services unavailable. This can disrupt patient care and operations. <br/>
  <strong>Controls</strong>:
 <ul>
