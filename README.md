@@ -110,38 +110,36 @@ Cloud databases often store patient information, appointments, and billing data.
 </ul>
 
 <strong>Staff Laptop (Device Theft)</strong><br/>
+Healthcare workers often use laptops containing patient records, emails, and internal systems. A stolen laptop can become a major security incident. <br/>
  <strong>Controls</strong>:
 <ul>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
+ <li><strong>ISO 27001 A.7.10 — Storage Media:</strong> This matters because sensitive information stored on laptops or removable drives must be protected. Encryption and secure storage reduce the damage if the laptop is stolen.</li>
+ <li><strong>ISO 27001 A.8.1 — User Endpoint Devices:</strong> This matters because laptops are endpoint devices frequently targeted by attackers. Security controls like device locking, antivirus software, and remote wipe help protect data.</li>
 </ul>
 
 <strong>Staff Email (Phishing)</strong><br/>
+Phishing emails trick employees into clicking malicious links or giving away passwords. Healthcare organizations are common targets because of valuable patient data. <br/>
  <strong>Controls</strong>:
 <ul>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
+ <li><strong>ISO 27001 A.6.3 — Information Security Awareness, Education and Training:</strong> This matters because employees are the first line of defense. Training helps staff recognize suspicious emails, fake login pages, and social engineering attacks.</li>
+ <li><strong>ISO 27001 A.8.7 — Protection Against Malware:</strong> This matters because phishing emails often deliver malware or ransomware. Anti-malware tools help detect and block malicious files before they infect systems.</li>
 </ul>
 
 <strong>Patient Data (Unauthorized Access)</strong><br/>
+Patient information is highly confidential and protected by privacy laws. Unauthorized access can lead to identity theft, lawsuits, and loss of trust. <br/>
  <strong>Controls</strong>:
 <ul>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
+ <li><strong>ISO 27001 A.5.34 — Privacy and Protection of Personally Identifiable Information (PII):</strong> This matters because healthcare organizations must protect patient personal data and comply with privacy regulations. The control ensures patient information is collected, stored, and handled securely.</li>
+ <li><strong>ISO 27001 A.8.3 — Information Access Restriction:</strong> This matters because not every employee should have access to all patient records. Restricting access reduces the chance of misuse or accidental disclosure.</li>
 </ul>
 
 <strong>Servers (Ransomware)</strrong><br/>
+Ransomware can encrypt healthcare systems, making patient records and services unavailable. This can disrupt patient care and operations. <br/>
  <strong>Controls</strong>:
 <ul>
- <li></li>
- <li></li>
- <li></li>
+ <li><strong>ISO 27001 A.8.8 — Management of Technical Vulnerabilities:</strong> This matters because outdated software and unpatched systems are common ransomware entry points. Regular patching closes security weaknesses attackers exploit.</li>
+ <li><strong>ISO 27001 A.8.13 — Information Backup:</strong> This matters because backups allow organizations to restore systems after a ransomware attack without paying attackers. Backups are critical for recovery.</li>
+ <li><strong>ISO 27001 A.8.16 — Monitoring Activities:</strong> This matters because continuous monitoring helps detect suspicious behavior early, such as unusual file encryption or unauthorized activity on servers.</li>
  <li></li>
 </ul>
 
