@@ -89,7 +89,79 @@ https://www.isms.online/iso-27001/annex-a-2022/
  <li>Technological (A.8 - 34 Controls): Network security, encryption, and access management.</li>
 </ul>
 
-I selected 20 relevant controls out of 93 controls across organizational, physical, and technical domains.
+I mapped each identified risk to 20 relevant specific IS0 270001 Annex A controls.
+
+EMR System (Unauthorized Access) <br/>
+ <strong>Controls</strong>:
+<ul>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+</ul>
+
+Cloud Database (Data Breach) <br/>
+ <strong>Controls</strong>:
+<ul>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+</ul>
+
+Staff Laptop (Device Theft) <br/>
+ <strong>Controls</strong>:
+<ul>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+</ul>
+
+Staff Email (Phishing) <br/>
+ <strong>Controls</strong>:
+<ul>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+</ul>
+
+Patient Data (Unauthorized Access) <br/>
+ <strong>Controls</strong>:
+<ul>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+</ul>
+
+Servers (Ransomware) <br/>
+ <strong>Controls</strong>:
+<ul>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+</ul>
+
+Network Devices (Intrusion) <br/>
+ <strong>Controls</strong>:
+<ul>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+</ul>
+
+Security Cameras (Unauthorized Access) <br/>
+ <strong>Controls</strong>:
+<ul>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+</ul>
 
 <p align="center">
  <img src="https://i.imgur.com/JubBivS.png" height="80%" width="80%" alt="twentyControls"/>
