@@ -92,7 +92,11 @@ https://www.isms.online/iso-27001/annex-a-2022/
 I mapped each identified risk to 20 relevant specific IS0 270001 Annex A controls. These controls were chosen to reduce the chance or impact of each risk happening.
 
 <strong>EMR System (Unauthorized Access)</strong><br/>
-Electronic Medical Records contain sensitive patient information. If the wrong person gets access, patient privacy, trust, and legal compliance are affected. <br/>
+<p align="center">
+ <img src="" height="80%" width="80%" alt="emrSystems"/>
+<br/>
+
+ Electronic Medical Records contain sensitive patient information. If the wrong person gets access, patient privacy, trust, and legal compliance are affected. <br/>
 <strong>Controls</strong>: 
 <ul>
  <li><strong>ISO 27001 A.5.15 — Access Control:</strong> This matters because it ensures only authorized staff can access the EMR system. Doctors, nurses, and admins should only see the information needed for their jobs. Without access control, anyone inside the organization could view or misuse patient records.</li>
@@ -140,7 +144,6 @@ Ransomware can encrypt healthcare systems, making patient records and services u
  <li><strong>ISO 27001 A.8.8 — Management of Technical Vulnerabilities:</strong> This matters because outdated software and unpatched systems are common ransomware entry points. Regular patching closes security weaknesses attackers exploit.</li>
  <li><strong>ISO 27001 A.8.13 — Information Backup:</strong> This matters because backups allow organizations to restore systems after a ransomware attack without paying attackers. Backups are critical for recovery.</li>
  <li><strong>ISO 27001 A.8.16 — Monitoring Activities:</strong> This matters because continuous monitoring helps detect suspicious behavior early, such as unusual file encryption or unauthorized activity on servers.</li>
- <li></li>
 </ul>
 
 <strong>Network Devices (Intrusion)</strong><br/>
@@ -159,11 +162,6 @@ Security cameras protect physical areas of the healthcare facility. If compromis
  <li><strong>ISO 27001 A.8.9 — Configuration Management:</strong> This matters because poorly configured cameras often have weak passwords or outdated firmware. Proper configuration reduces the risk of unauthorized access to surveillance systems.</li>
 </ul>
 
-<p align="center">
- <img src="https://i.imgur.com/JubBivS.png" height="80%" width="80%" alt="twentyControls"/>
-<br />
-
-<p align="center">
  <strong>Phase Six: Control Mapping Table</strong> <br/>
 
  The purpose of this control mapping table is to:
