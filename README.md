@@ -55,7 +55,7 @@ You cannot protect what you do not know exists. This process provides the visibi
  I basically reviewed Phase Two and wrote a quick scope summary around this fictional company (SaveRecords Health Clinic) This defines what's in scope (systems, assets, data) and who interacts with them.
 
 <strong>Scope Summary:</strong>
-SaveRecords Health Clinic operates an internal patient management system where doctors, nurses, and admin staff access patient records stored in a secure cloud environment. The scope of this compliance program includes the clinics information systems, electronic medical record (EMR) platforms, staff laptops and patient data store in the cloud.
+SaveRecords Health Clinic operates an internal patient management system where doctors, nurses, and admin staff access patient records stored in a secure cloud environment. The scope of this compliance program includes the clinics information systems, electronic medical record (EMR) platforms, staff laptops and patient data stored in the cloud.
 
 <p align="center">
  <strong>Phase Four: Perform Risk Assessment (Create Risk Register)</strong> <br/>
