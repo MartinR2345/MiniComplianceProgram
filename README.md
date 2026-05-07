@@ -144,21 +144,19 @@ Ransomware can encrypt healthcare systems, making patient records and services u
 </ul>
 
 <strong>Network Devices (Intrusion)</strong><br/>
+Routers, switches, and firewalls manage network traffic. If attackers compromise these devices, they may gain access to the entire healthcare network. <br/>
  <strong>Controls</strong>:
 <ul>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
+ <li><strong>ISO 27001 A.8.20 — Network Security:</strong> This matters because it protects networks from unauthorized access and attacks. Firewalls, segmentation, and secure configurations help defend healthcare systems.</li>
+ <li><strong>ISO 27001 A.8.21 — Security of Network Services:</strong> This matters because network services such as internet access, VPNs, and remote connections must be secured and monitored to prevent intrusions.</li>
 </ul>
 
 <strong>Security Cameras (Unauthorized Access)</strong><br/>
+Security cameras protect physical areas of the healthcare facility. If compromised, attackers could spy on patients or staff or disable surveillance. <br/>
  <strong>Controls</strong>:
 <ul>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
+ <li><strong>ISO 27001 A.7.4 — Physical Security Monitoring:</strong> This matters because cameras are part of physical security protection. Monitoring helps detect unauthorized physical access and security incidents.</li>
+ <li><strong>ISO 27001 A.8.9 — Configuration Management:</strong> This matters because poorly configured cameras often have weak passwords or outdated firmware. Proper configuration reduces the risk of unauthorized access to surveillance systems.</li>
 </ul>
 
 <p align="center">
