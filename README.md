@@ -109,9 +109,10 @@ I selected 20 relevant controls out of 93 controls across organizational, physic
 <p align="center">
  <img src="https://i.imgur.com/zJ36ShI.png" height="80%" width="80%" alt="twentyControls"/>
 
+I added existing controls, recommended controls, ownership, treatment decisions, and remediation status to my risk register table to simulate a real-world GRC workflow.
 
 <p align="center">
- <img src="" height="80%" width="80%" alt="twentyControls"/>
+ <img src="https://i.imgur.com/3LQwOKN.png" height="80%" width="80%" alt="twentyControls"/>
 
 
    
