@@ -16,9 +16,9 @@ This project presents a mini GRC program developed for a fictional healthcare or
 <h2>Task To Complete</h2>
 
 <ul>
- <li>Choose a fictional company (for example, a SaaS startup or healthcare clinic) and define its scope: assets, systems, users, and data types.</li>
+ <li>Choose a fictional company (for example, a SaaS startup or healthcare clinic)</li>
  <li>Download the ISO 27001 Annex A control list or NIST 800-53 catalog to use as your baseline requirements.</li>
- <li>Identify and document critical organizational assets requiring protection.</li>
+ <li>Identify and document critical organizational assets, systems, users, and data types requiring protection.</li>
  <li>Determine potential cybersecurity threats and vulnerabilities affecting healthcare systems and patient data.</li>
  <li>Create realistic risk scenarios demonstrating how threats could exploit vulnerabilities.</li>
  <li>Perform a risk assessment using likelihood and impact scoring to prioritize risks.</li>
