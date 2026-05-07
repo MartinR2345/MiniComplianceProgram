@@ -26,10 +26,17 @@ The overall objective of this project was to demonstrate foundational knowledge 
 <ul>
  <li>Choose a fictional company (for example, a SaaS startup or healthcare clinic) and define its scope: assets, systems, users, and data types.</li>
  <li>Download the ISO 27001 Annex A control list or NIST 800-53 catalog to use as your baseline requirements.</li>
- <li>Create a spreadsheet with columns such as Control ID, Requirement, Current Status, Owner, and Needed Actions.</li>
- <li>Select at least 15–20 controls that apply to your environment and document whether they are implemented, partially implemented, or missing.</li>
- <li>Highlight 3–5 gaps and propose realistic remediation steps that an organization could take to improve compliance readiness.</li>
- <li>Store all evidence (matrix, notes, document drafts) as part of your growing portfolio.</li>
+ <li>Identify and document critical organizational assets requiring protection.</li>
+ <li>Determine potential cybersecurity threats and vulnerabilities affecting healthcare systems and patient data.</li>
+ <li>Create realistic risk scenarios demonstrating how threats could exploit vulnerabilities.</li>
+ <li>Perform a risk assessment using likelihood and impact scoring to prioritize risks.</li>
+ <li>Develop a structured risk register to document identified risks and remediation efforts.</li>
+ <li>Identify existing security controls currently protecting organizational assets.</li>
+ <li>Recommend additional security controls to reduce the likelihood or impact of identified risks.</li>
+ <li>Assign ownership and treatment strategies for each identified risk.</li>
+ <li>Map identified risks to 15-20 relevant ISO/IEC 27001 Annex A controls.</li>
+ <li>Identify examples of audit evidence used to validate control implementation and effectiveness.</li>
+ <li>Demonstrate foundational governance, risk management, and compliance (GRC) practices within a healthcare environment.</li>
 </ul>
 
 <h2>Program walk-through:</h2>
