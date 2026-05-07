@@ -59,11 +59,11 @@ SaveRecords Health Clinic operates an internal patient management system where d
 <p align="center">
  <strong>Phase Four: Perform Risk Assessment (Create Risk Register)</strong> <br/>
 
-I built a structured risk assessment process where my risk register documents important assets, the threats affecting them, associated vulnerabilities, and how those risks are managed. I used likelihood and impact scoring to prioritize risks, then added existing controls, recommended controls, ownership, treatment decisions, and remediation status to simulate a real-world GRC workflow.
+I built a structured risk assessment process where my risk register documents important assets, the threats affecting them, associated vulnerabilities, and how those risks are managed. I provide risk scenarios to connect assets, threats, and vulnerabilities into realistic business situations so risks could be clearly understood and prioritized. I used likelihood and impact scoring to prioritize risks, then added existing controls, recommended controls, ownership, treatment decisions, and remediation status to simulate a real-world GRC workflow.
 
 <strong>Risk Register Table</strong>
  <ul>
-  <img src="https://i.imgur.com/KzQKg9Y.png" height="80%" width="80%" alt="Risk Register Table"/></li>
+  <img src="https://i.imgur.com/naL7HO4.png" height="80%" width="80%" alt="Risk Register Table"/></li>
  </ul>
 
 <strong>Risk Assessment Scoring Framework</strong>
