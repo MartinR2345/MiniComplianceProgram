@@ -165,7 +165,8 @@ Security cameras protect physical areas of the healthcare facility. If compromis
  <li><strong>ISO 27001 A.8.9 — Configuration Management:</strong> This matters because poorly configured cameras often have weak passwords or outdated firmware. Proper configuration reduces the risk of unauthorized access to surveillance systems.</li>
 </ul>
 
- <strong>Phase Six: Control Mapping Table</strong> <br/>
+<p align="center">
+<strong>Phase Six: Control Mapping Table</strong> <br/>
 
  The purpose of this control mapping table is to:
 <ul>
