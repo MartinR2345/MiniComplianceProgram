@@ -79,13 +79,13 @@ I built a structured risk assessment process where my risk register documents im
  <strong>ISO 27001 Annex A Framework Information:</strong><br>
 https://www.isms.online/iso-27001/annex-a-2022/
  
- I chose <strong>(ISO 27001 Annex A framework)</strong> for my healthcare clinic scenario because it's globally recognized, risk based, and structured for exactly what SaveRecords needs which is protecting PII and PHI in a systematic way. 
+ I chose <strong>(ISO 27001 Annex A framework)</strong> for my healthcare clinic scenario because it's globally recognized, risk based, and structured for exactly what SaveRecords needs, which is protecting PII and PHI in a systematic way. 
  
- <strong>ISO 27001 (Annex A)</strong> has 93 controls group under four themes:
+ <strong>ISO 27001 (Annex A)</strong> has 93 controls grouped under four themes:
 <ul>
  <li>Organization (A.5 - A.8 - 37 Controls): Policies, procedures, and governance.</li>
  <li>People (A.6 - 8 Controls): Background checks, training, and awareness.</li>
- <li>Physical (A.7 - 14 Controls): Secure areas, equipment, and surveilance.</li>
+ <li>Physical (A.7 - 14 Controls): Secure areas, equipment, and surveillance.</li>
  <li>Technological (A.8 - 34 Controls): Network security, encryption, and access management.</li>
 </ul>
 
