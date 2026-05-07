@@ -4,16 +4,8 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-This project presents a mini Governance, Risk, and Compliance (GRC) program developed for a fictional healthcare organization called SaveRecords Health Clinic. The purpose of the project was to simulate how a healthcare environment can identify, assess, and manage cybersecurity and compliance risks related to sensitive patient information stored within cloud-based systems.
-
-The project focuses on key healthcare assets including Electronic Medical Record (EMR) systems, cloud databases, staff devices, network infrastructure, and patient data containing Personally Identifiable Information (PII) and Protected Health Information (PHI). A structured risk assessment process was performed to identify threats, vulnerabilities, and realistic risk scenarios affecting these assets.
-
-Risks were evaluated using a likelihood and impact scoring methodology to determine overall risk severity and prioritize remediation efforts. Existing controls, recommended controls, ownership, treatment strategies, and remediation status were documented within a risk register to simulate a real-world GRC workflow.
-
-To align the program with industry best practices, identified risks were mapped to relevant controls from ISO/IEC 27001 Annex A. The project also included examples of audit evidence used to validate the implementation and effectiveness of security controls.
-
-The overall objective of this project was to demonstrate foundational knowledge of governance, risk management, compliance processes, control selection, and risk-based security decision-making within a healthcare compliance environment.
-<br />
+This project presents a mini GRC program developed for a fictional healthcare organization called SaveRecords Health Clinic. The purpose of the project was to simulate how a healthcare environment can identify, assess, and manage cybersecurity and compliance risks related to sensitive patient information stored within cloud-based systems.  The overall objective of this project was to demonstrate foundational knowledge of governance, risk management, compliance processes, control selection, and risk-based security decision-making within a healthcare compliance environment.
+<br/>
 
 <h2>Framework Used</h2>
 
@@ -107,10 +99,6 @@ https://www.isms.online/iso-27001/annex-a-2022/
 I mapped each identified risk to 20 relevant specific IS0 270001 Annex A controls. These controls were chosen to reduce the chance or impact of each risk happening.
 
 <strong>EMR System (Unauthorized Access)</strong><br/>
-<p align="center">
- <img src="" height="80%" width="80%" alt="emrSystems"/>
-<br/>
-
  Electronic Medical Records contain sensitive patient information. If the wrong person gets access, patient privacy, trust, and legal compliance are affected. <br/>
 <strong>Controls</strong>: 
 <ul>
