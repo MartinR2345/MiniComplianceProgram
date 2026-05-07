@@ -48,6 +48,8 @@ This repository demonstrates how I built a mini compliance program by selecting 
     <li><strong>Sensitive Data Types (Like PII and PHI):</strong><br/><img src="https://i.imgur.com/6yKDBji.png" height="80%" width="80%" alt="SaveRecords"/><br/><img src="https://i.imgur.com/APxuRxJ.png" height="80%" width="80%" alt="SaveRecords"/></li>
  </ul>
 
+You cannot protect what you do not know exists. This process provides the visibility needed to apply appropriate security controls and meet compliance mandates.
+
 <p align="center">
  <strong>Phase Three: Write out the Scope Summary </strong> <br/>
 
