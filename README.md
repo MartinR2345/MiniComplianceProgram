@@ -89,7 +89,7 @@ https://www.isms.online/iso-27001/annex-a-2022/
  <li>Technological (A.8 - 34 Controls): Network security, encryption, and access management.</li>
 </ul>
 
-I mapped each identified risk to 20 relevant specific IS0 270001 Annex A controls.
+I mapped each identified risk to 20 relevant specific IS0 270001 Annex A controls. These controls were chosen to reduce the chance or impact of each risk happening.
 
 EMR System (Unauthorized Access) <br/>
  <strong>Controls</strong>:
