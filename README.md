@@ -36,9 +36,7 @@ This project presents a mini GRC program developed for a fictional healthcare or
 <p align="center">
   <strong>Phase One: Define The Fictional Organization</strong> <br/>
 
- I needed a clear story for the compliance environment so first, I identified from personal experience of the type of jobs I worked. Healthcare came to mind. Healthcare is naturally high of compliance relevance (HIPAA, ISO 27001, etc), electronic records and data types like PII and PHI. 
-
- I created a healthcare clinic called SaveRecords that stores and manages electronic patient records in a cloud environment.
+ I needed a clear story for the compliance environment so first, I identified from personal experience of the type of jobs I worked. Healthcare came to mind. Healthcare is naturally high of compliance relevance (HIPAA, ISO 27001, etc), electronic records and data types like PII and PHI. I created a healthcare clinic called SaveRecords that stores and manages electronic patient records in a cloud environment.
   <ul>
   <img src="https://i.imgur.com/OgEUlUn.png" height="80%" width="80%" alt="SaveRecords"/></li>
  </ul>
