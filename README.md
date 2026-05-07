@@ -91,7 +91,25 @@ https://www.isms.online/iso-27001/annex-a-2022/
 
 I mapped each identified risk to 20 relevant specific IS0 270001 Annex A controls. These controls were chosen to reduce the chance or impact of each risk happening.
 
-EMR System (Unauthorized Access) <br/>
+<strong>EMR System (Unauthorized Access)</strong><br/>
+Electronic Medical Records contain sensitive patient information. If the wrong person gets access, patient privacy, trust, and legal compliance are affected. <br/>
+<strong>Controls</strong>: 
+<ul>
+ <li><strong>ISO 27001 A.5.15 — Access Control:</strong> This matters because it ensures only authorized staff can access the EMR system. Doctors, nurses, and admins should only see the information needed for their jobs. Without access control, anyone inside the organization could view or misuse patient records.</li>
+ <li><strong>ISO 27001 A.8.2 — Privileged Access Rights:</strong> This matters because administrator accounts have powerful permissions. If admin access is not tightly controlled, a single compromised account could expose or alter thousands of patient records.</li>
+ <li><strong>ISO 27001 A.8.3 — Information Access Restriction:</strong> This matters because it limits access to sensitive medical data based on role or department. For example, billing staff should not have the same access as medical providers. This reduces insider threats and accidental exposure.</li>
+</ul>
+
+<strong>Cloud Database (Data Breach)</strong><br/>
+Cloud databases often store patient information, appointments, and billing data. A breach could expose large amounts of confidential information. <br/>
+ <strong>Controls</strong>:
+<ul>
+ <li><strong>ISO 27001 A.8.5 — Secure Authentication:</strong> This matters because weak passwords or poor login protection make it easier for attackers to break into the database. Strong authentication helps stop unauthorized access.</li>
+ <li><strong>ISO 27001 A.8.24 — Use of Cryptography:</strong> This matters because encryption protects sensitive data even if attackers steal it. Encrypted patient records are much harder to read or misuse.</li>
+ <li><strong>ISO 27001 A.8.9 — Configuration Management:</strong> This matters because misconfigured cloud settings are one of the biggest causes of data breaches. Proper configuration ensures security settings are correct and continuously maintained.</li>
+</ul>
+
+<strong>Staff Laptop (Device Theft)</strong><br/>
  <strong>Controls</strong>:
 <ul>
  <li></li>
@@ -100,7 +118,7 @@ EMR System (Unauthorized Access) <br/>
  <li></li>
 </ul>
 
-Cloud Database (Data Breach) <br/>
+<strong>Staff Email (Phishing)</strong><br/>
  <strong>Controls</strong>:
 <ul>
  <li></li>
@@ -109,7 +127,7 @@ Cloud Database (Data Breach) <br/>
  <li></li>
 </ul>
 
-Staff Laptop (Device Theft) <br/>
+<strong>Patient Data (Unauthorized Access)</strong><br/>
  <strong>Controls</strong>:
 <ul>
  <li></li>
@@ -118,7 +136,7 @@ Staff Laptop (Device Theft) <br/>
  <li></li>
 </ul>
 
-Staff Email (Phishing) <br/>
+<strong>Servers (Ransomware)</strrong><br/>
  <strong>Controls</strong>:
 <ul>
  <li></li>
@@ -127,7 +145,7 @@ Staff Email (Phishing) <br/>
  <li></li>
 </ul>
 
-Patient Data (Unauthorized Access) <br/>
+<strong>Network Devices (Intrusion)</strong><br/>
  <strong>Controls</strong>:
 <ul>
  <li></li>
@@ -136,25 +154,7 @@ Patient Data (Unauthorized Access) <br/>
  <li></li>
 </ul>
 
-Servers (Ransomware) <br/>
- <strong>Controls</strong>:
-<ul>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
-</ul>
-
-Network Devices (Intrusion) <br/>
- <strong>Controls</strong>:
-<ul>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
-</ul>
-
-Security Cameras (Unauthorized Access) <br/>
+<strong>Security Cameras (Unauthorized Access)</strong><br/>
  <strong>Controls</strong>:
 <ul>
  <li></li>
