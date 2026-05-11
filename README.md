@@ -97,6 +97,9 @@ https://www.isms.online/iso-27001/annex-a-2022/
 I mapped each identified risk to 20 relevant specific IS0 270001 Annex A controls. These controls were chosen to reduce the chance or impact of each risk happening.
 
 <strong>EMR System (Unauthorized Access)</strong><br/>
+
+https://github.com/user-attachments/assets/66a930db-d68a-46cf-bd98-f83acefe8460
+
  Electronic Medical Records contain sensitive patient information. If the wrong person gets access, patient privacy, trust, and legal compliance are affected. <br/>
 <strong>Controls</strong>: 
 <ul>
@@ -115,6 +118,10 @@ Cloud databases often store patient information, appointments, and billing data.
 </ul>
 
 <strong>Staff Laptop (Device Theft)</strong><br/>
+
+https://github.com/user-attachments/assets/929c5f21-33f7-491b-992a-46607fd7df85
+
+
 Healthcare workers often use laptops containing patient records, emails, and internal systems. A stolen laptop can become a major security incident. <br/>
  <strong>Controls</strong>:
 <ul>
