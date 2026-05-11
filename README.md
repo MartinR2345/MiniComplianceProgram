@@ -121,7 +121,6 @@ Cloud databases often store patient information, appointments, and billing data.
 
 https://github.com/user-attachments/assets/929c5f21-33f7-491b-992a-46607fd7df85
 
-
 Healthcare workers often use laptops containing patient records, emails, and internal systems. A stolen laptop can become a major security incident. <br/>
  <strong>Controls</strong>:
 <ul>
@@ -130,6 +129,9 @@ Healthcare workers often use laptops containing patient records, emails, and int
 </ul>
 
 <strong>Staff Email (Phishing)</strong><br/>
+
+https://github.com/user-attachments/assets/cff966e1-89b4-455c-b0c5-e1ce5973270f
+
 Phishing emails trick employees into clicking malicious links or giving away passwords. Healthcare organizations are common targets because of valuable patient data. <br/>
  <strong>Controls</strong>:
 <ul>
