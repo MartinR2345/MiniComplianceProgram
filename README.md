@@ -109,6 +109,9 @@ https://github.com/user-attachments/assets/66a930db-d68a-46cf-bd98-f83acefe8460
 </ul>
 
 <strong>Cloud Database (Data Breach)</strong><br/>
+
+https://github.com/user-attachments/assets/ecda0459-381c-4246-9100-3cf58d629812
+
 Cloud databases often store patient information, appointments, and billing data. A breach could expose large amounts of confidential information. <br/>
  <strong>Controls</strong>:
 <ul>
@@ -130,7 +133,7 @@ Healthcare workers often use laptops containing patient records, emails, and int
 
 <strong>Staff Email (Phishing)</strong><br/>
 
-https://github.com/user-attachments/assets/cff966e1-89b4-455c-b0c5-e1ce5973270f
+https://github.com/user-attachments/assets/2c6271a8-477c-4890-bfa5-81ac06dc8dff
 
 Phishing emails trick employees into clicking malicious links or giving away passwords. Healthcare organizations are common targets because of valuable patient data. <br/>
  <strong>Controls</strong>:
@@ -140,6 +143,9 @@ Phishing emails trick employees into clicking malicious links or giving away pas
 </ul>
 
 <strong>Patient Data (Unauthorized Access)</strong><br/>
+
+https://github.com/user-attachments/assets/6cee278f-8d50-4eb2-b8da-4e29257d033a
+
 Patient information is highly confidential and protected by privacy laws. Unauthorized access can lead to identity theft, lawsuits, and loss of trust. <br/>
  <strong>Controls</strong>:
 <ul>
