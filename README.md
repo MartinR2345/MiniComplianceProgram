@@ -98,7 +98,7 @@ I mapped each identified risk to 20 relevant specific IS0 270001 Annex A control
 
 <strong>EMR System (Unauthorized Access)</strong><br/>
 
-https://github.com/user-attachments/assets/66a930db-d68a-46cf-bd98-f83acefe8460
+https://github.com/user-attachments/assets/522722d8-2b9c-4e15-bc0f-4f91f44e6fd6
 
  Electronic Medical Records contain sensitive patient information. If the wrong person gets access, patient privacy, trust, and legal compliance are affected. <br/>
 <strong>Controls</strong>: 
@@ -110,7 +110,7 @@ https://github.com/user-attachments/assets/66a930db-d68a-46cf-bd98-f83acefe8460
 
 <strong>Cloud Database (Data Breach)</strong><br/>
 
-https://github.com/user-attachments/assets/ecda0459-381c-4246-9100-3cf58d629812
+https://github.com/user-attachments/assets/003c73d4-e647-409d-bc65-2843a926f7c7
 
 Cloud databases often store patient information, appointments, and billing data. A breach could expose large amounts of confidential information. <br/>
  <strong>Controls</strong>:
@@ -122,7 +122,7 @@ Cloud databases often store patient information, appointments, and billing data.
 
 <strong>Staff Laptop (Device Theft)</strong><br/>
 
-https://github.com/user-attachments/assets/929c5f21-33f7-491b-992a-46607fd7df85
+https://github.com/user-attachments/assets/d13fec72-bf62-413f-8dee-ebcf2f1b6e6d
 
 Healthcare workers often use laptops containing patient records, emails, and internal systems. A stolen laptop can become a major security incident. <br/>
  <strong>Controls</strong>:
@@ -133,7 +133,7 @@ Healthcare workers often use laptops containing patient records, emails, and int
 
 <strong>Staff Email (Phishing)</strong><br/>
 
-https://github.com/user-attachments/assets/2c6271a8-477c-4890-bfa5-81ac06dc8dff
+https://github.com/user-attachments/assets/8a423d61-a2c1-48a9-a429-7b0e698384a4
 
 Phishing emails trick employees into clicking malicious links or giving away passwords. Healthcare organizations are common targets because of valuable patient data. <br/>
  <strong>Controls</strong>:
@@ -144,7 +144,7 @@ Phishing emails trick employees into clicking malicious links or giving away pas
 
 <strong>Patient Data (Unauthorized Access)</strong><br/>
 
-https://github.com/user-attachments/assets/6cee278f-8d50-4eb2-b8da-4e29257d033a
+https://github.com/user-attachments/assets/c6ebbe23-bdd4-4fdd-9e9c-83fc5f4be410
 
 Patient information is highly confidential and protected by privacy laws. Unauthorized access can lead to identity theft, lawsuits, and loss of trust. <br/>
  <strong>Controls</strong>:
@@ -155,7 +155,7 @@ Patient information is highly confidential and protected by privacy laws. Unauth
 
 <strong>Servers (Ransomware)</strong><br/>
 
-https://github.com/user-attachments/assets/71fb030f-73c5-424d-a2b3-a0ae669701da
+https://github.com/user-attachments/assets/b1ab0ec7-3e5e-44a4-ad52-65e6a20f3fd1
 
 Ransomware can encrypt healthcare systems, making patient records and services unavailable. This can disrupt patient care and operations. <br/>
  <strong>Controls</strong>:
