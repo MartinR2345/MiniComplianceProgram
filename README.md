@@ -154,6 +154,9 @@ Patient information is highly confidential and protected by privacy laws. Unauth
 </ul>
 
 <strong>Servers (Ransomware)</strong><br/>
+
+https://github.com/user-attachments/assets/71fb030f-73c5-424d-a2b3-a0ae669701da
+
 Ransomware can encrypt healthcare systems, making patient records and services unavailable. This can disrupt patient care and operations. <br/>
  <strong>Controls</strong>:
 <ul>
