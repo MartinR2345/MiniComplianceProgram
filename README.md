@@ -166,6 +166,9 @@ Ransomware can encrypt healthcare systems, making patient records and services u
 </ul>
 
 <strong>Network Devices (Intrusion)</strong><br/>
+
+https://github.com/user-attachments/assets/3637f45c-bc21-4585-82cc-42e347c4144b
+
 Routers, switches, and firewalls manage network traffic. If attackers compromise these devices, they may gain access to the entire healthcare network. <br/>
  <strong>Controls</strong>:
 <ul>
@@ -174,6 +177,9 @@ Routers, switches, and firewalls manage network traffic. If attackers compromise
 </ul>
 
 <strong>Security Cameras (Unauthorized Access)</strong><br/>
+
+https://github.com/user-attachments/assets/d75d12ee-5bad-4c5d-acd7-6a71a633a49a
+
 Security cameras protect physical areas of the healthcare facility. If compromised, attackers could spy on patients or staff or disable surveillance. <br/>
  <strong>Controls</strong>:
 <ul>
