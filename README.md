@@ -52,18 +52,30 @@ This project presents a mini GRC program developed for a fictional healthcare or
     <li><strong>Sensitive Data Types (Like PII and PHI):</strong><br/><img src="https://i.imgur.com/6yKDBji.png" height="80%" width="80%" alt="SaveRecords"/><br/><img src="https://i.imgur.com/APxuRxJ.png" height="80%" width="80%" alt="SaveRecords"/></li>
  </ul>
 
-You cannot protect what you do not know exists. This process provides the visibility needed to apply appropriate security controls and meet compliance mandates.
+This step is critical because it helps me know what this health clinic (Save Records) owns, who uses it and where sensitive data lives. Also as well, it helps me identify what could be attacked, what needs stronger protection and which systems are most important.
+
+You cannot protect what you do not know exists. 
 
 <p align="center">
- <strong>Phase Three: Write out the Scope Summary </strong> <br/>
+ <strong>Phase Three: The Scope Summary </strong> <br/>
 
- I basically reviewed Phase Two and wrote a quick scope summary around this fictional company (SaveRecords Health Clinic) This defines what's in scope (systems, assets, data) and who interacts with them.
+This scope summary defines what's in scope (systems, assets, data) and who interacts with them. Without a scope summary, the compliance program becomes unclear and difficult to manage. Having a scope summary avoids confusion.
 
 <strong>Scope Summary:</strong>
 SaveRecords Health Clinic operates an internal patient management system where doctors, nurses, and admin staff access patient records stored in a secure cloud environment. The scope of this compliance program includes the clinics information systems, electronic medical record (EMR) platforms, staff laptops and patient data stored in the cloud.
 
 <p align="center">
- <strong>Phase Four: Perform Risk Assessment (Create Risk Register)</strong> <br/>
+ <strong>Phase Four: Identify 8 Assets & Perform Risk Assessment (Create Risk Register)</strong> <br/>
+
+The 8 Assets I chose:
+1. EMR System
+2. Cloud DB
+3. Staff Laptop
+4. Staff Email
+5. Patient Data
+6. Servers
+7. Network Devices (Routers & Firewalls)
+8. Security Cameras
 
 I built a structured risk assessment process where my risk register documents important assets, the threats affecting them, associated vulnerabilities, and how those risks are managed. I provide risk scenarios to connect assets, threats, and vulnerabilities into realistic business situations so risks could be clearly understood and prioritized. I used likelihood and impact scoring to prioritize risks.
 
@@ -77,6 +89,7 @@ I built a structured risk assessment process where my risk register documents im
   <img src="https://i.imgur.com/tP9S8qC.png" height="80%" width="80%" alt="Risk Assessment Scoring Framework"/></li>
  </ul>
 
+This risk assessment helps SaveRecords Health clinic focus on the most important security problems first.
  
 <p align="center">
  <strong>Phase Five: Choose A Framework and Select 20 Controls </strong> <br/>
@@ -84,7 +97,7 @@ I built a structured risk assessment process where my risk register documents im
  <strong>ISO 27001 Annex A Framework Information:</strong><br>
 https://www.isms.online/iso-27001/annex-a-2022/
  
- I chose <strong>(ISO 27001 Annex A framework)</strong> for my healthcare clinic scenario because it's globally recognized, risk based, and structured for exactly what SaveRecords needs, which is protecting PII and PHI in a systematic way. 
+ I chose <strong>(ISO 27001 Annex A framework)</strong> for the healthcare clinic (SaveRecords) because it's globally recognized and risk based. This is exactly what  SaveRecords needs, when it comes to protecting PII and PHI in a systematic way. 
  
  <strong>ISO 27001 (Annex A)</strong> has 93 controls grouped under four themes:
 <ul>
@@ -94,9 +107,9 @@ https://www.isms.online/iso-27001/annex-a-2022/
  <li>Technological (A.8 - 34 Controls): Network security, encryption, and access management.</li>
 </ul>
 
-I mapped each identified risk to 20 relevant specific IS0 270001 Annex A controls. These controls were chosen to reduce the chance or impact of each risk happening.
+I mapped each identified risk, the 8 Assets to 20 controls. These controls were chosen to reduce the chance or impact of each risk happening.
 
-<strong>EMR System (Unauthorized Access)</strong><br/>
+<strong>1. EMR System (Unauthorized Access)</strong><br/>
 
 https://github.com/user-attachments/assets/522722d8-2b9c-4e15-bc0f-4f91f44e6fd6
 
@@ -108,7 +121,7 @@ https://github.com/user-attachments/assets/522722d8-2b9c-4e15-bc0f-4f91f44e6fd6
  <li><strong>ISO 27001 A.8.3 — Information Access Restriction:</strong> This matters because it limits access to sensitive medical data based on role or department. For example, billing staff should not have the same access as medical providers. This reduces insider threats and accidental exposure.</li>
 </ul>
 
-<strong>Cloud Database (Data Breach)</strong><br/>
+<strong>2. Cloud Database (Data Breach)</strong><br/>
 
 https://github.com/user-attachments/assets/003c73d4-e647-409d-bc65-2843a926f7c7
 
@@ -120,7 +133,7 @@ Cloud databases often store patient information, appointments, and billing data.
  <li><strong>ISO 27001 A.8.9 — Configuration Management:</strong> This matters because misconfigured cloud settings are one of the biggest causes of data breaches. Proper configuration ensures security settings are correct and continuously maintained.</li>
 </ul>
 
-<strong>Staff Laptop (Device Theft)</strong><br/>
+<strong>3. Staff Laptop (Device Theft)</strong><br/>
 
 https://github.com/user-attachments/assets/d13fec72-bf62-413f-8dee-ebcf2f1b6e6d
 
@@ -131,7 +144,7 @@ Healthcare workers often use laptops containing patient records, emails, and int
  <li><strong>ISO 27001 A.8.1 — User Endpoint Devices:</strong> This matters because laptops are endpoint devices frequently targeted by attackers. Security controls like device locking, antivirus software, and remote wipe help protect data.</li>
 </ul>
 
-<strong>Staff Email (Phishing)</strong><br/>
+<strong>4. Staff Email (Phishing)</strong><br/>
 
 https://github.com/user-attachments/assets/8a423d61-a2c1-48a9-a429-7b0e698384a4
 
@@ -142,7 +155,7 @@ Phishing emails trick employees into clicking malicious links or giving away pas
  <li><strong>ISO 27001 A.8.7 — Protection Against Malware:</strong> This matters because phishing emails often deliver malware or ransomware. Anti-malware tools help detect and block malicious files before they infect systems.</li>
 </ul>
 
-<strong>Patient Data (Unauthorized Access)</strong><br/>
+<strong>5. Patient Data (Unauthorized Access)</strong><br/>
 
 https://github.com/user-attachments/assets/c6ebbe23-bdd4-4fdd-9e9c-83fc5f4be410
 
@@ -153,7 +166,7 @@ Patient information is highly confidential and protected by privacy laws. Unauth
  <li><strong>ISO 27001 A.8.3 — Information Access Restriction:</strong> This matters because not every employee should have access to all patient records. Restricting access reduces the chance of misuse or accidental disclosure.</li>
 </ul>
 
-<strong>Servers (Ransomware)</strong><br/>
+<strong>6. Servers (Ransomware)</strong><br/>
 
 https://github.com/user-attachments/assets/b1ab0ec7-3e5e-44a4-ad52-65e6a20f3fd1
 
@@ -165,7 +178,7 @@ Ransomware can encrypt healthcare systems, making patient records and services u
  <li><strong>ISO 27001 A.8.16 — Monitoring Activities:</strong> This matters because continuous monitoring helps detect suspicious behavior early, such as unusual file encryption or unauthorized activity on servers.</li>
 </ul>
 
-<strong>Network Devices (Intrusion)</strong><br/>
+<strong>7. Network Devices (Intrusion)</strong><br/>
 
 https://github.com/user-attachments/assets/3637f45c-bc21-4585-82cc-42e347c4144b
 
@@ -176,7 +189,7 @@ Routers, switches, and firewalls manage network traffic. If attackers compromise
  <li><strong>ISO 27001 A.8.21 — Security of Network Services:</strong> This matters because network services such as internet access, VPNs, and remote connections must be secured and monitored to prevent intrusions.</li>
 </ul>
 
-<strong>Security Cameras (Unauthorized Access)</strong><br/>
+<strong>8. Security Cameras (Unauthorized Access)</strong><br/>
 
 https://github.com/user-attachments/assets/d75d12ee-5bad-4c5d-acd7-6a71a633a49a
 
