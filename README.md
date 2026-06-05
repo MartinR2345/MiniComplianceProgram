@@ -39,7 +39,15 @@ This project presents a mini GRC program developed for a fictional healthcare or
   <ul>
   <img src="https://i.imgur.com/OgEUlUn.png" height="80%" width="80%" alt="SaveRecords"/></li>
  </ul>
-     
+
+<strong>Why This Step Was Important</strong><br>
+Before implementing security controls or assessing risks, I needed to understand the organization I was protecting. Defining the organization provided the business context necessary to determine:
+What systems needed protection
+What sensitive data was being handled
+Who would be using the systems
+Which risks and compliance requirements were most relevant
+Without a clearly defined organization, it would be difficult to build an effective ISO 27001 compliance program.
+
 <p align="center">
  <strong>Step Two: Identify Assets, Systems, Users & Data Types</strong> <br/>
 
@@ -49,36 +57,56 @@ This project presents a mini GRC program developed for a fictional healthcare or
  <ul>
   <li><strong>EMR Systems (EMR Application & Platform)</strong><img src="https://i.imgur.com/bGSYZMf.png" height="80%" width="80%" alt="SaveRecords"/></li>
   <li><strong>Cloud Database:</strong><br/><img src="https://i.imgur.com/NTzHrhE.png" height="80%" width="80%" alt="SaveRecords"/></li>
-   <li><strong>Staff Laptops</strong><br/><img src="https://i.imgur.com/NTzHrhE.png" height="80%" width="80%" alt="SaveRecords"/></li>
-   <li>Staff Laptops</li>
+   <li><strong>Staff Laptops</strong><br/><img src="https://i.imgur.com/79JdHm3.png" height="80%" width="80%" alt="SaveRecords"/></li>
    <li>Staff Email</li>
    <li>Servers</li>
    <li>Network Devices</li>
    <li>Security Cameras</li>
  </ul>
 
-
-  
    <li><strong>Users (Doctors, Admin Staff, Nurses, IT Support):</strong><br/><img src="https://i.imgur.com/4mf0V0q.png" height="80%" width="80%" alt="SaveRecords"/></li>
     <li><strong>Sensitive Data Types (Like PII and PHI):</strong><br/><img src="https://i.imgur.com/6yKDBji.png" height="80%" width="80%" alt="SaveRecords"/><br/><img src="https://i.imgur.com/APxuRxJ.png" height="80%" width="80%" alt="SaveRecords"/></li>
  </ul>
-
+<strong>Why This Step Was Important</strong><br>
 This step is critical because it helps me know what this health clinic (Save Records) owns, who uses it and where sensitive data lives. Also as well, it helps me identify what could be attacked, what needs stronger protection and which systems are most important.
 
 You cannot protect what you do not know exists. 
 
 <p align="center">
- <strong>Phase Three: The Scope Summary </strong> <br/>
-
-This scope summary defines what's in scope (systems, assets, data) and who interacts with them. Without a scope summary, the compliance program becomes unclear and difficult to manage. Having a scope summary avoids confusion.
-
+ <strong>Step Three: The Scope Summary </strong> <br/>
+ 
 <strong>Scope Summary:</strong>
 SaveRecords Health Clinic operates an internal patient management system where doctors, nurses, and admin staff access patient records stored in a secure cloud environment. The scope of this compliance program includes the clinics information systems, electronic medical record (EMR) platforms, staff laptops and patient data stored in the cloud.
 
-<p align="center">
- <strong>Phase Four: Identify 8 Assets & Perform Risk Assessment (Create Risk Register)</strong> <br/>
+<strong>Why This Step Was Important</strong><br>
+This scope summary defines what's in scope (systems, assets, data) and who interacts with them. Without a scope summary, the compliance program becomes unclear and difficult to manage. Having a scope summary avoids confusion.
 
-The 8 Assets I chose:
+<p align="center">
+ <strong>Step Four: Develop Risk Assessment Methodology</strong> <br/>
+<img src="https://i.imgur.com/6RnJrEI.png" height="80%" width="80%" alt="SaveRecords"/>
+
+To ensure risks were evaluated consistently, I developed a risk assessment methodology that measures risk using likelihood and impact scores.
+The methodology uses a 1-to-5 rating scale for both likelihood and impact.
+The likelihood scale measures how probable it is that a threat could occur.
+The impact scale measures the severity of the consequences if a risk event occurs.
+The overall risk score is calculated using the following formula:
+Risk Score = Likelihood × Impact
+Once calculated, risks are categorized into Low, Medium, High, or Critical risk levels to help prioritize remediation efforts.
+
+<strong>Why This Step Was Important</strong><br>
+A risk assessment methodology provides a consistent way to evaluate and prioritize risks across the organization.
+Without a defined methodology: 
+Risk ratings may be subjective
+Risks may be prioritized inconsistently
+Security resources may be focused on the wrong issues
+Using likelihood and impact scoring helps ensure that the most significant risks receive attention first. This methodology became the foundation for scoring risks within the risk register and determining which risks required remediation.
+
+<p align="center">
+ <strong>Step Five: Identify Assets, Threat & Vulnerabilities </strong> <br/>
+
+ After establishing the compliance scope and risk assessment methodology, I identified eight assets, eight potential threats and eight vulnerabilities affecting the organization's critical assets.
+
+ <strong>Identified Assets (What the organization owns):</strong><br>
 1. EMR System
 2. Cloud DB
 3. Staff Laptop
@@ -87,6 +115,79 @@ The 8 Assets I chose:
 6. Servers
 7. Network Devices (Routers & Firewalls)
 8. Security Cameras
+
+ <strong>Identified Threats (What bad thing could happen):</strong><br>
+1. Unauthorized access to patient records
+2. Data breach
+3. Device theft leadibg to data exposure
+4. Phishing attack
+5. Unauthorized data disclosure
+6. Ransomware attack
+7. Network intrusion / unauthorized access
+8. Unauthorized access to surveillance systems
+
+ <strong>Identified Vulnerabilities (Why it could happen):</strong><br>
+1. No Multi-Factor Authentication (MFA)
+2. Misconfigured access permissions
+3. No disk encryption
+4. Lack of security awareness training
+5. Weak access controls or excessive permissions
+6. Unpatched software or outdated systems
+7. Default credentials or weak configurations
+8. Default passwords and outdated firmware
+
+<strong>Why This Step Was Important</strong><br>
+The purpose of this step was to understand what could negatively impact the confidentiality, integrity, and availability of systems and sensitive patient information. By understanding both threats and vulnerabilities, I was able to determine which assets were most at risk, how attacks could occur, which controls would be needed to reduce risk, what risks should be documented in the risk register.
+
+
+<p align="center">
+ <strong>Step Six: Create Risk Scenarios</strong><br/>
+
+
+<strong>Why This Step Was Important</strong><br>
+
+
+<p align="center">
+ <strong>Step Seven: Create Risk Register</strong><br/>
+
+<strong>Why This Step Was Important</strong><br>
+
+
+<p align="center">
+ <strong>Step Eight: Select ISO 27001 Controls</strong><br/>
+
+<strong>Why This Step Was Important</strong><br>
+
+
+<p align="center">
+ <strong>Step Eight: Select ISO 27001 Controls</strong><br/>
+
+<strong>Why This Step Was Important</strong><br>
+
+<p align="center">
+ <strong>Step Nine: Explain Why Those Controls Were Chosen</strong><br/>
+
+<strong>Why This Step Was Important</strong><br>
+
+<p align="center">
+ <strong>Step Ten: Create Control Mapping Table</strong><br/>
+
+<strong>Why This Step Was Important</strong><br>
+
+<p align="center">
+ <strong>Step Eleven: Create Compliance Matrix</strong><br/>
+
+<strong>Why This Step Was Important</strong><br>
+
+<p align="center">
+ <strong>Step Twelve: Gap Assessment & Remediation Summary (One Page) </strong><br/>
+
+<strong>Why This Step Was Important</strong><br>
+
+<p align="center">
+ <strong>Step Thirteen: Write Executive Summary & Compliance Program Overview (One Page)</strong><br/>
+
+<strong>Why This Step Was Important</strong><br>
 
 I built a structured risk assessment process where my risk register documents important assets, the threats affecting them, associated vulnerabilities, and how those risks are managed. I provide risk scenarios to connect assets, threats, and vulnerabilities into realistic business situations so risks could be clearly understood and prioritized. I used likelihood and impact scoring to prioritize risks.
 
