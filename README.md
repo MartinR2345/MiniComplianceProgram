@@ -17,24 +17,23 @@ This project presents a mini GRC program developed for a fictional healthcare or
 
 <ul>
  <li>Choose a fictional company (for example, a SaaS startup or healthcare clinic)</li>
- <li>Download the ISO 27001 Annex A control list or NIST 800-53 catalog to use as your baseline requirements.</li>
  <li>Identify and document critical organizational assets, systems, users, and data types requiring protection.</li>
+ <li>Write a scope summary for the organization</li>
+ <li>Developed Risk Assessment Methodology</li>
  <li>Determine potential cybersecurity threats and vulnerabilities affecting healthcare systems and patient data.</li>
  <li>Create realistic risk scenarios demonstrating how threats could exploit vulnerabilities.</li>
- <li>Perform a risk assessment using likelihood and impact scoring to prioritize risks.</li>
  <li>Develop a structured risk register to document identified risks and remediation efforts.</li>
- <li>Identify existing security controls currently protecting organizational assets.</li>
- <li>Recommend additional security controls to reduce the likelihood or impact of identified risks.</li>
- <li>Assign ownership and treatment strategies for each identified risk.</li>
  <li>Map identified risks to 15-20 relevant ISO/IEC 27001 Annex A controls.</li>
- <li>Identify examples of audit evidence used to validate control implementation and effectiveness.</li>
- <li>Demonstrate foundational governance, risk management, and compliance (GRC) practices within a healthcare environment.</li>
+ <li>Create Control Mapping Table</li>
+ <li>Create Compliance Matrix</li>
+ <li>Gap Assessment & Remediation Summary (One Page)</li>
+ <li>Write Executive Summary & Compliance Program Overview (One Page)</li>
 </ul>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-  <strong>Phase One: Define The Fictional Organization</strong> <br/>
+  <strong>Step One: Define The Fictional Organization</strong> <br/>
 
  I needed a clear story for the compliance environment so first, I identified from personal experience of the type of jobs I worked. Healthcare came to mind. Healthcare is naturally high of compliance relevance (HIPAA, ISO 27001, etc), electronic records and data types like PII and PHI. I created a healthcare clinic called SaveRecords that stores and manages electronic patient records in a cloud environment.
   <ul>
@@ -42,12 +41,24 @@ This project presents a mini GRC program developed for a fictional healthcare or
  </ul>
      
 <p align="center">
- <strong>Phase Two: Define Assets, Systems, Users & Data Types</strong> <br/>
+ <strong>Step Two: Identify Assets, Systems, Users & Data Types</strong> <br/>
 
- From there, I define the full compliance scope including assets like: 
+ From there, I define the full compliance scope including:
+
+<strong>Assets & Systems</strong>
  <ul>
   <li><strong>EMR Systems (EMR Application & Platform)</strong><img src="https://i.imgur.com/bGSYZMf.png" height="80%" width="80%" alt="SaveRecords"/></li>
   <li><strong>Cloud Database:</strong><br/><img src="https://i.imgur.com/NTzHrhE.png" height="80%" width="80%" alt="SaveRecords"/></li>
+   <li><strong>Staff Laptops</strong><br/><img src="https://i.imgur.com/NTzHrhE.png" height="80%" width="80%" alt="SaveRecords"/></li>
+   <li>Staff Laptops</li>
+   <li>Staff Email</li>
+   <li>Servers</li>
+   <li>Network Devices</li>
+   <li>Security Cameras</li>
+ </ul>
+
+
+  
    <li><strong>Users (Doctors, Admin Staff, Nurses, IT Support):</strong><br/><img src="https://i.imgur.com/4mf0V0q.png" height="80%" width="80%" alt="SaveRecords"/></li>
     <li><strong>Sensitive Data Types (Like PII and PHI):</strong><br/><img src="https://i.imgur.com/6yKDBji.png" height="80%" width="80%" alt="SaveRecords"/><br/><img src="https://i.imgur.com/APxuRxJ.png" height="80%" width="80%" alt="SaveRecords"/></li>
  </ul>
