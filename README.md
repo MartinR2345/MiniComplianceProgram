@@ -55,18 +55,25 @@ Without a clearly defined organization, it would be difficult to build an effect
 
 <strong>Assets & Systems</strong>
  <ul>
-  <li><strong>EMR Systems (EMR Application & Platform)</strong><img src="https://i.imgur.com/bGSYZMf.png" height="80%" width="80%" alt="SaveRecords"/></li>
-  <li><strong>Cloud Database:</strong><br/><img src="https://i.imgur.com/NTzHrhE.png" height="80%" width="80%" alt="SaveRecords"/></li>
-   <li><strong>Staff Laptops</strong><br/><img src="https://i.imgur.com/79JdHm3.png" height="80%" width="80%" alt="SaveRecords"/></li>
+  <li>EMR Systems (EMR Application & Platform)<img src="https://i.imgur.com/bGSYZMf.png" height="80%" width="80%" alt="SaveRecords"/></li>
+  <li>Cloud Database:<br/><img src="https://i.imgur.com/NTzHrhE.png" height="80%" width="80%" alt="SaveRecords"/></li>
+   <li>Staff Laptops<br/><img src="https://i.imgur.com/79JdHm3.png" height="80%" width="80%" alt="SaveRecords"/></li>
    <li>Staff Email</li>
    <li>Servers</li>
    <li>Network Devices</li>
    <li>Security Cameras</li>
  </ul>
 
-   <li><strong>Users (Doctors, Admin Staff, Nurses, IT Support):</strong><br/><img src="https://i.imgur.com/4mf0V0q.png" height="80%" width="80%" alt="SaveRecords"/></li>
-    <li><strong>Sensitive Data Types (Like PII and PHI):</strong><br/><img src="https://i.imgur.com/6yKDBji.png" height="80%" width="80%" alt="SaveRecords"/><br/><img src="https://i.imgur.com/APxuRxJ.png" height="80%" width="80%" alt="SaveRecords"/></li>
+<strong>Users</strong>
+<ul>
+   <li>Doctors, Admin Staff, Nurses, IT Support</strong><br/><img src="https://i.imgur.com/4mf0V0q.png" height="80%" width="80%" alt="SaveRecords"/></li>
  </ul>
+
+<strong>Sensitive Data Types</strong>
+<ul>
+   <li>PII and PHI<br/><img src="https://i.imgur.com/6yKDBji.png" height="80%" width="80%" alt="SaveRecords"/><br/><img src="https://i.imgur.com/APxuRxJ.png" height="80%" width="80%" alt="SaveRecords"/></li>
+</ul>
+  
 <strong>Why This Step Was Important</strong><br>
 This step is critical because it helps me know what this health clinic (Save Records) owns, who uses it and where sensitive data lives. Also as well, it helps me identify what could be attacked, what needs stronger protection and which systems are most important.
 
