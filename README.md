@@ -171,20 +171,22 @@ Risk scenarios help explain how a threat could take advantage of a vulnerability
 After identifying the organization's assets, threats, vulnerabilities, and risk scenarios, I created a risk register to document and assess the risks affecting SaveRecords Health Clinic.
 The risk register serves as a centralized record of identified risks and helps prioritize remediation efforts based on their potential impact to the organization.
 
-
 <strong>Why This Step Was Important</strong><br>
 The risk register provides a structured way to document, evaluate, prioritize, and manage organizational risks.  It helps the organization understand its most significant risks, prioritize remediation activities assign accountability through risk ownership, track risk treatment decision and monitor progress toward risk reduction.  Without a risk register, risks may be identified but not consistently managed or monitored.
 
 <p align="center">
- <strong>Step Eight: Select ISO 27001 Controls</strong><br/>
+ <strong>Step Eight: Select ISO 27001 Based on Risk Controls</strong><br/>
+  <img src="https://i.imgur.com/H6RJW2z.png" height="80%" width="80%" alt="SaveRecords"/>
+
+ After completing the risk assessment and risk register, I selected relevant controls from ISO 27001 Annex A to address the risks identified within SaveRecords Health Clinic.
+I chose ISO 27001 because it is a globally recognized information security framework that uses a risk-based approach (controls that are selected based on their specific risks, system and business requirements). 
+
+From the 93 Annex A controls, I selected 20 controls that were most relevant to the healthcare environment and mapped them to the organization's critical assets and identified risks.
 
 <strong>Why This Step Was Important</strong><br>
+The goal of these controls was to reduce the likelihood and impact of cybersecurity incidents while protecting sensitive patient information, including Personally Identifiable Information (PII) and Protected Health Information (PHI).
+Selecting controls based on risk helps organizations protect critical assets, reduce security vulnerabilities, improve compliance readiness, support regulatory requirements, prioritize security investments and establish a defensible security program. Without security controls, identified risks remain unresolved and continue to expose the organization to potential harm.
 
-
-<p align="center">
- <strong>Step Eight: Select ISO 27001 Controls</strong><br/>
-
-<strong>Why This Step Was Important</strong><br>
 
 <p align="center">
  <strong>Step Nine: Explain Why Those Controls Were Chosen</strong><br/>
@@ -211,20 +213,7 @@ The risk register provides a structured way to document, evaluate, prioritize, a
 
 <strong>Why This Step Was Important</strong><br>
 
-I built a structured risk assessment process where my risk register documents important assets, the threats affecting them, associated vulnerabilities, and how those risks are managed. I provide risk scenarios to connect assets, threats, and vulnerabilities into realistic business situations so risks could be clearly understood and prioritized. I used likelihood and impact scoring to prioritize risks.
 
-<strong>Risk Register Table</strong>
- <ul>
-  <img src="https://i.imgur.com/SHImMIl.png" height="80%" width="80%" alt="Risk Register Table"/></li>
- </ul>
-
-<strong>Risk Assessment Scoring Framework</strong>
- <ul>
-  <img src="https://i.imgur.com/tP9S8qC.png" height="80%" width="80%" alt="Risk Assessment Scoring Framework"/></li>
- </ul>
-
-This risk assessment helps SaveRecords Health clinic focus on the most important security problems first.
- 
 <p align="center">
  <strong>Phase Five: Choose A Framework and Select 20 Controls </strong> <br/>
 
