@@ -149,18 +149,26 @@ The purpose of this step was to understand what could negatively impact the conf
 
 <p align="center">
  <strong>Step Six: Create Risk Scenarios</strong><br/>
-<img src="https://i.imgur.com/zcViat2.png" height="80%" width="80%" alt="SaveRecords"/><br>
 
-After identifying the organization's assets, threats, and vulnerabilities, I developed realistic risk scenarios to demonstrate how a threat could exploit a vulnerability and negatively impact the organization.  These scenarios help translate technical risks into real-world business situations that management and stakeholders can easily understand.
-
+ After identifying the organization's assets, threats, and vulnerabilities, I developed realistic risk scenarios to demonstrate how a threat could exploit a vulnerability and negatively impact the organization.  These scenarios help translate technical risks into real-world business situations that management and stakeholders can easily understand.
+ 
+1. A hacker guesses a doctor's password and gains unauthorized access to patient records stored within the EMR system.
+2. Patient records stored in the cloud become publicly accessible due to incorrect permission settings.
+3. A stolen laptop contains patient information that can be viewed because the device is not encrypted.
+4. An employee clicks a malicious email and unknowingly provides their login credentials to an attacker.
+5. An employee accesses or shares patient information they were not authorized to view.
+6. Attackers exploit a known software vulnerability and deploy ransomware, disrupting operations.
+7. A hacker gains access to network equipment using default credentials and compromises internal systems.
+8. An attacker accesses the camera system remotely and views surveillance footage without authorization.
+ 
 <strong>Why This Step Was Important</strong><br>
 Risk scenarios help explain how a threat could take advantage of a vulnerability to impact an organization's assets, operations, or sensitive data. Risk scenarios turn threats and vulnerabilities into realistic stories that explain how a security incident could occur.
 
-<strong>Why This Step Was Important</strong><br>
-
-
 <p align="center">
  <strong>Step Seven: Create Risk Register</strong><br/>
+ <img src="https://i.imgur.com/XkAaadZ.png" height="80%" width="80%" alt="SaveRecords"/>
+
+
 
 <strong>Why This Step Was Important</strong><br>
 
