@@ -149,7 +149,12 @@ The purpose of this step was to understand what could negatively impact the conf
 
 <p align="center">
  <strong>Step Six: Create Risk Scenarios</strong><br/>
+<img src="https://i.imgur.com/zcViat2.png" height="80%" width="80%" alt="SaveRecords"/><br>
 
+After identifying the organization's assets, threats, and vulnerabilities, I developed realistic risk scenarios to demonstrate how a threat could exploit a vulnerability and negatively impact the organization.  These scenarios help translate technical risks into real-world business situations that management and stakeholders can easily understand.
+
+<strong>Why This Step Was Important</strong><br>
+Risk scenarios help explain how a threat could take advantage of a vulnerability to impact an organization's assets, operations, or sensitive data. Risk scenarios turn threats and vulnerabilities into realistic stories that explain how a security incident could occur.
 
 <strong>Why This Step Was Important</strong><br>
 
