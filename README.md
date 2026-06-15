@@ -166,12 +166,14 @@ Risk scenarios help explain how a threat could take advantage of a vulnerability
 
 <p align="center">
  <strong>Step Seven: Create Risk Register</strong><br/>
- <img src="https://i.imgur.com/XkAaadZ.png" height="80%" width="80%" alt="SaveRecords"/>
+ <img src="https://i.imgur.com/LUj8mbz.png" height="80%" width="80%" alt="SaveRecords"/>
 
+After identifying the organization's assets, threats, vulnerabilities, and risk scenarios, I created a risk register to document and assess the risks affecting SaveRecords Health Clinic.
+The risk register serves as a centralized record of identified risks and helps prioritize remediation efforts based on their potential impact to the organization.
 
 
 <strong>Why This Step Was Important</strong><br>
-
+The risk register provides a structured way to document, evaluate, prioritize, and manage organizational risks.  It helps the organization understand its most significant risks, prioritize remediation activities assign accountability through risk ownership, track risk treatment decision and monitor progress toward risk reduction.  Without a risk register, risks may be identified but not consistently managed or monitored.
 
 <p align="center">
  <strong>Step Eight: Select ISO 27001 Controls</strong><br/>
