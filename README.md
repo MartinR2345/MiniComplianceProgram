@@ -335,10 +335,10 @@ This information supports audit readiness and continuous improvement efforts.
 <strong>Why This Step Was Important</strong><br>
 This one page was written for management, not auditors. The goal is to summarize the most important compliance weaknesses discovered during the assessment and explain what the organization should do next.
 
-
 <p align="center">
  <strong>Step Thirteen: Write Executive Summary & Compliance Program Overview (One Page)</strong><br/>
-  <img src="" height="80%" width="80%" alt="SaveRecords"/>
+  <img src="https://i.imgur.com/Y2pdYgT.png" height="80%" width="80%" alt="SaveRecords"/>
+  <img src="https://i.imgur.com/0BjIRot.png" height="80%" width="80%" alt="SaveRecords"/>
 
 <strong>Why This Step Was Important</strong><br>
 This one page summarizes what the organization is, what was assessed, what was found, and what should happen next. This is an overview of the entire project.
