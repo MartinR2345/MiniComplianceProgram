@@ -305,27 +305,43 @@ I like to think of the Control Mapping Table as a checklist that matches securit
 <strong>Why This Step Was Important</strong><br>
 Without a Control Mapping Table, it would be difficult to demonstrate how security controls address identified risks or how compliance requirements are being met.
 
-
 <p align="center">
  <strong>Step Eleven: Create Compliance Matrix</strong><br/>
-  <img src="" height="80%" width="80%" alt="SaveRecords"/>
+  <img src="https://i.imgur.com/gIy9rKK.png" height="80%" width="80%" alt="SaveRecords"/><br>
+
+ The Compliance Matrix evaluates the implementation status of the selected ISO 27001 controls within the SaveRecords Health Clinic environment.
+This answers: "What is the current compliance status of each control?"The matrix documents each control, its implementation status, responsible owner, supporting evidence, identified gaps, and remediation actions required to improve compliance.
 
 <strong>Why This Step Was Important</strong><br>
+The Compliance Matrix helps measure the organization's current compliance posture and identify areas requiring improvement.
+It provides visibility into:
+<ul>
+ <li>Implemented controls</li>
+ <li>Partially implemented controls</li>
+ <li>Missing controls</li>
+ <li>Compliance gaps</li>
+ <li>Remediation priorities</li>
+ <li>Ownership and accountability</li>
+</ul>
+This information supports audit readiness and continuous improvement efforts.
+
 
 <p align="center">
  <strong>Step Twelve: Gap Assessment & Remediation Summary (One Page) </strong><br/>
-  <img src="" height="80%" width="80%" alt="SaveRecords"/>
+  <img src="https://i.imgur.com/LuAHnB1.png" height="80%" width="80%" alt="SaveRecords"/>
+  <img src="https://i.imgur.com/x9iJo1P.png" height="80%" width="80%" alt="SaveRecords"/>
+  <img src="https://i.imgur.com/c7hAa4D.png" height="80%" width="80%" alt="SaveRecords"/>
 
 <strong>Why This Step Was Important</strong><br>
+This one page was written for management, not auditors. The goal is to summarize the most important compliance weaknesses discovered during the assessment and explain what the organization should do next.
+
 
 <p align="center">
  <strong>Step Thirteen: Write Executive Summary & Compliance Program Overview (One Page)</strong><br/>
   <img src="" height="80%" width="80%" alt="SaveRecords"/>
 
 <strong>Why This Step Was Important</strong><br>
-
-
-
+This one page summarizes what the organization is, what was assessed, what was found, and what should happen next. This is an overview of the entire project.
 
    
 <h2>Lessons Learned:</h2>
