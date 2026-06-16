@@ -296,49 +296,35 @@ Security cameras protect physical areas of the healthcare facility. If compromis
 
 <p align="center">
  <strong>Step Ten: Create Control Mapping Table</strong><br/>
+ <img src="https://i.imgur.com/CsrJJLR.png" height="80%" width="80%" alt="SaveRecords"/>
+
+The Control Mapping Table connects risks to controls and controls to evidence.
+
+I like to think of the Control Mapping Table as a checklist that matches security problems to security solutions. Step 10 answers: "Which controls address which risks?"
 
 <strong>Why This Step Was Important</strong><br>
+Without a Control Mapping Table, it would be difficult to demonstrate how security controls address identified risks or how compliance requirements are being met.
+
 
 <p align="center">
  <strong>Step Eleven: Create Compliance Matrix</strong><br/>
+  <img src="" height="80%" width="80%" alt="SaveRecords"/>
 
 <strong>Why This Step Was Important</strong><br>
 
 <p align="center">
  <strong>Step Twelve: Gap Assessment & Remediation Summary (One Page) </strong><br/>
+  <img src="" height="80%" width="80%" alt="SaveRecords"/>
 
 <strong>Why This Step Was Important</strong><br>
 
 <p align="center">
  <strong>Step Thirteen: Write Executive Summary & Compliance Program Overview (One Page)</strong><br/>
+  <img src="" height="80%" width="80%" alt="SaveRecords"/>
 
 <strong>Why This Step Was Important</strong><br>
 
 
-<p align="center">
- <strong>Phase Five: Choose A Framework and Select 20 Controls </strong> <br/>
-
-
-I mapped each identified risk, the 8 Assets to 20 controls. These controls were chosen to reduce the chance or impact of each risk happening.
-
-
-<p align="center">
-<strong>Phase Six: Control Mapping Table</strong> <br/>
-
- The purpose of this control mapping table is to:
-<ul>
- <li>identified risks within the SaveRecords Health Clinic environment to relevant ISO/IEC 27001 controls</li>
- <li>demonstrate how security controls are selected based on risk and how their effectiveness can be validated through measurable evidence</li>
- <li>corresponding audit evidence.</li>
-</ul>
-
-<p align="center">
- <img src="https://i.imgur.com/zJ36ShI.png" height="80%" width="80%" alt="twentyControls"/>
-
-I added existing controls, recommended controls, ownership, treatment decisions, and remediation status to my risk register table to simulate a real-world GRC workflow.
-
-<p align="center">
- <img src="https://i.imgur.com/3LQwOKN.png" height="80%" width="80%" alt="twentyControls"/>
 
 
    
