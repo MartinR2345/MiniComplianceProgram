@@ -166,11 +166,18 @@ Risk scenarios help explain how a threat could take advantage of a vulnerability
  <strong>Step Seven: Create Risk Register</strong><br/>
  <img src="https://i.imgur.com/LUj8mbz.png" height="80%" width="80%" alt="SaveRecords"/>
 
-After identifying the organization's assets, threats, vulnerabilities, and risk scenarios, I created a risk register to document and assess the risks affecting SaveRecords Health Clinic.
+After identifying the organization's assets, threats, vulnerabilities, and risk scenarios, I created a risk register (this spreadsheet) that identifies, assesses, and tracks potential threats or opportunities that could impact this organizations (Save Records).
 
 <strong>Why This Step Was Important</strong><br>
-The risk register provides a structured way to document, evaluate, prioritize, and manage organizational risks.  It helps the organization understand its most significant risks, prioritize remediation activities, assign accountability through risk ownership and track risk treatment decision as well as monitor progress toward risk reduction.  Without a risk register, risks may be identified but not consistently managed or monitored.
-
+It helps the organization: 
+<ul>
+ <li>understand its most significant risks</li>
+ <li>prioritize remediation activities</li>
+ <li>assign accountability through risk ownership</li>
+ <li>track risk treatment decision as well as monitor progress toward risk reduction.</li>
+</ul>
+Without a risk register, risks may be identified but not consistently managed or monitored. <br/>
+<br/>
 <p align="center">
  <strong>Step Eight: Select ISO 27001 Based on Risk Controls</strong><br/>
   <img src="https://i.imgur.com/H6RJW2z.png" height="80%" width="80%" alt="SaveRecords"/>
