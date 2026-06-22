@@ -93,11 +93,14 @@ Risk Score = Likelihood × Impact
 Once calculated, risks are categorized into Low, Medium, High, or Critical risk levels to help prioritize remediation efforts.
 
 <strong>Why This Step Was Important</strong><br>
-This risk assessment methodology provides a consistent way to evaluate and prioritize risks across the organization.
+This risk assessment methodology provides a consistent way to evaluate and prioritize risks across the organization. <br/>
 Without a defined methodology: 
-Risk ratings may be subjective
-Risks may be prioritized inconsistently
-Security resources may be focused on the wrong issues
+<ul>
+ <li>Risk ratings may be subjective</li>
+ <li>Risks may be prioritized inconsistently</li>
+ <li>Security resources may be focused on the wrong issues</li>
+</ul>
+
 Using likelihood and impact scoring helps ensure that the most significant risks receive attention first. This methodology became the foundation for scoring risks within the risk register and determining which risks required remediation.
 
 <p align="center">
@@ -176,7 +179,6 @@ It helps the organization:
  <li>assign accountability through risk ownership</li>
  <li>track risk treatment decision as well as monitor progress toward risk reduction.</li>
 </ul>
-Without a risk register, risks may be identified but not consistently managed or monitored. <br/>
 <br/>
 <p align="center">
  <strong>Step Eight: Select ISO 27001 Based on Risk Controls</strong><br/>
@@ -193,13 +195,12 @@ https://www.isms.online/iso-27001/annex-a-2022/
  <li>Technological (A.8 - 34 Controls): Network security, encryption, and access management.</li>
 </ul>
 
- After completing the risk assessment and risk register, I selected relevant controls from ISO 27001 Annex A to address the risks identified within SaveRecords Health Clinic.
-I chose ISO 27001 because it is a globally recognized information security framework that uses a risk-based approach (controls that are selected based on their specific risks, system and business requirements). 
+ After completing the risk assessment and risk register, I selected twenty controls out of 93 from ISO 27001 Annex A to address the risks identified within SaveRecords Health Clinic.
+I chose ISO 27001 because this information security framework uses a risk-based approach (controls that are selected based on their specific risks, system and business requirements) and it's globally recognized. 
 
-From the 93 Annex A controls, I selected 20 controls that were most relevant to the healthcare environment and mapped them to the organization's critical assets and identified risks.
 
 <strong>Why This Step Was Important</strong><br>
-The goal of these controls was to reduce the likelihood and impact of cybersecurity incidents while protecting sensitive patient information, including Personally Identifiable Information (PII) and Protected Health Information (PHI).
+The goal for these 20 controls is to reduce the likelihood and impact of cybersecurity incidents while protecting sensitive patient information, including Personally Identifiable Information (PII) and Protected Health Information (PHI).
 Selecting controls based on risk helps organizations protect critical assets, reduce security vulnerabilities, improve compliance readiness, support regulatory requirements, prioritize security investments and establish a defensible security program. Without security controls, identified risks remain unresolved and continue to expose the organization to potential harm.
 
 
@@ -314,8 +315,9 @@ Without a Control Mapping Table, it would be difficult to demonstrate how securi
  <strong>Step Eleven: Create Compliance Matrix</strong><br/>
   <img src="https://i.imgur.com/gIy9rKK.png" height="80%" width="80%" alt="SaveRecords"/><br>
 
- The Compliance Matrix evaluates the implementation status of the selected ISO 27001 controls within the SaveRecords Health Clinic environment.
-This answers: "What is the current compliance status of each control?"The matrix documents each control, its implementation status, responsible owner, supporting evidence, identified gaps, and remediation actions required to improve compliance.
+The Compliance matrix documents each control, its implementation status, who is the owner, supporting evidence, identified gaps, and remediation actions required to improve compliance.
+Basically this Compliance Matrix evaluates the implementation status of the selected ISO 27001 controls within the SaveRecords Health Clinic environment.
+This answers: "What is the current compliance status of each control?"
 
 <strong>Why This Step Was Important</strong><br>
 The Compliance Matrix helps measure the organization's current compliance posture and identify areas requiring improvement.
@@ -329,7 +331,6 @@ It provides visibility into:
  <li>Ownership and accountability</li>
 </ul>
 This information supports audit readiness and continuous improvement efforts.
-
 
 <p align="center">
  <strong>Step Twelve: Gap Assessment & Remediation Summary (One Page) </strong><br/>
