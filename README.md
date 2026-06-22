@@ -42,11 +42,12 @@ This project presents a mini GRC program developed for a fictional healthcare or
 
 <strong>Why This Step Was Important</strong><br>
 Before implementing security controls or assessing risks, I needed to understand the organization I was protecting. Defining the organization provided the business context necessary to determine:
-What systems needed protection
-What sensitive data was being handled
-Who would be using the systems
-Which risks and compliance requirements were most relevant
-Without a clearly defined organization, it would be difficult to build an effective ISO 27001 compliance program.
+<ul>
+  <li>What systems needed protection</li>
+  <li>What sensitive data was being handled</li>
+  <li>Who would be using the systems</li>
+</ul>
+Without a clearly defined organization, it would be difficult to build an effective ISO 27001 compliance program. <br/>
 
 <p align="center">
  <strong>Step Two: Identify Assets, Systems, Users & Data Types</strong> <br/>
