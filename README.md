@@ -112,17 +112,7 @@ Using likelihood and impact scoring helps ensure that the most significant risks
 <p align="center">
  <strong>Step Five: Identify Assets, Threat & Vulnerabilities </strong> <br/>
 
- After establishing the compliance scope and risk assessment methodology, I identified eight assets, eight potential threats and eight vulnerabilities affecting the organization's critical assets.
-
- <strong>Identified Assets (What the organization owns):</strong><br>
-1. EMR System
-2. Cloud DB
-3. Staff Laptop
-4. Staff Email
-5. Patient Data
-6. Servers
-7. Network Devices (Routers & Firewalls)
-8. Security Cameras
+ After establishing the compliance scope and risk assessment methodology, I identified eight potential threats and eight vulnerabilities affecting the organization's 8 critical assets.
 
  <strong>Identified Threats (What bad thing could happen):</strong><br>
 1. Unauthorized access to patient records
@@ -144,14 +134,30 @@ Using likelihood and impact scoring helps ensure that the most significant risks
 7. Default credentials or weak configurations
 8. Default passwords and outdated firmware
 
-<strong>Why This Step Was Important</strong><br>
-The purpose of this step was to understand what could negatively impact the confidentiality, integrity, and availability of systems and sensitive patient information. By understanding both threats and vulnerabilities, I was able to determine which assets were most at risk, how attacks could occur, which controls would be needed to reduce risk, what risks should be documented in the risk register.
+ <strong>Identified Assets (What the organization owns):</strong><br>
+1. EMR System
+2. Cloud DB
+3. Staff Laptop
+4. Staff Email
+5. Patient Data
+6. Servers
+7. Network Devices (Routers & Firewalls)
+8. Security Cameras
 
+
+<strong>Why This Step Was Important</strong><br>
+By understanding both threats and vulnerabilities, I was able to determine:
+<ul>
+  <li>which assets were most at risk</li>
+  <li>how attacks could occur</li>
+  <li>which controls would be needed to reduce risk</li>
+  <li>what risks should be documented in the risk register.</li>
+</ul> 
 
 <p align="center">
  <strong>Step Six: Create Risk Scenarios</strong><br/>
 
- After identifying the organization's assets, threats, and vulnerabilities, I developed realistic risk scenarios to demonstrate how a threat could exploit a vulnerability and negatively impact the organization.  These scenarios help translate technical risks into real-world business situations that management and stakeholders can easily understand.
+ After identifying the organization's assets, threats, and vulnerabilities, I developed eight realistic risk scenarios to demonstrate how a threat could exploit a vulnerability and negatively impact the organization.  These scenarios help translate technical risks into real-world business situations that management and stakeholders can easily understand.
  
 1. A hacker guesses a doctor's password and gains unauthorized access to patient records stored within the EMR system.
 2. Patient records stored in the cloud become publicly accessible due to incorrect permission settings.
