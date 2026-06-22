@@ -93,7 +93,7 @@ Risk Score = Likelihood × Impact
 Once calculated, risks are categorized into Low, Medium, High, or Critical risk levels to help prioritize remediation efforts.
 
 <strong>Why This Step Was Important</strong><br>
-A risk assessment methodology provides a consistent way to evaluate and prioritize risks across the organization.
+This risk assessment methodology provides a consistent way to evaluate and prioritize risks across the organization.
 Without a defined methodology: 
 Risk ratings may be subjective
 Risks may be prioritized inconsistently
